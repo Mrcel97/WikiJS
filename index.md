@@ -1,4 +1,4 @@
-<!-- TITLE: Template -->
+<!-- TITLE: 2. Template -->
 <!-- SUBTITLE: A quick template design for E.P.Ll -->
 
 # Table of contents
