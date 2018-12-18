@@ -1,5 +1,5 @@
 <!-- TITLE: Visual Studio Code -->
-<!-- SUBTITLE: A quick summary of Visual Studio Code -->
+<!-- SUBTITLE: Code editing. Redefined. Free. Open source. Runs everywhere. -->
 
 # Visual Studio Code
 
