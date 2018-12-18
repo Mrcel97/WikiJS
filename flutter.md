@@ -1,5 +1,5 @@
 <div style="
-	background-image: url(https://i.ytimg.com/vi/fq4N0hgOWzU/maxresdefault.jpg); 
+	background-image: url(https://cdn-images-1.medium.com/max/1219/1*TFZQzyVAHLVXI_wNreokGA.png); 
 	height: 20em; 
 	background-attachment: fixed;
 	background-position: top;
