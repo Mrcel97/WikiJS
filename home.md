@@ -4,22 +4,18 @@
 # Eines
 
 <div style="margin: auto">
-| Visual Studio Code| Flutter |
-|:-------------------------:|:-------------------------:|
-|  [<img width="200" alt="VIsual Studio Code" src="https://mospaw.com/wp-content/uploads/2018/07/Visual_Studio_code_logo-274x300.png">](https://wiki-js-epl.herokuapp.com/visual-studio-code)|[<img width="200" alt="Flutter" src="https://pbs.twimg.com/profile_images/760249570085314560/yCrkrbl3_400x400.jpg">](https://wiki-js-epl.herokuapp.com/flutter) 
-<div>
- <table style="width:100%">
+ <table >
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th> Visual Studio Code</th>
+    <th>Flutter</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td> <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code"><img width="200" alt="VIsual Studio Code" src="https://mospaw.com/wp-content/uploads/2018/07/Visual_Studio_code_logo-274x300.png"></a> </td>
+    <td><a href="https://wiki-js-epl.herokuapp.com/flutter"><img width="200" alt="Flutter" src="https://pbs.twimg.com/profile_images/760249570085314560/yCrkrbl3_400x400.jpg"></a>
+</td>
   </tr>
 </table> 
+</div>
 # Índex
 1. Contextualization
 	1.1. Project Description
