@@ -3,7 +3,7 @@
 
 # Eines
 
-<div >
+<div style="padding: 2em">
  <table style="margin: auto">
   <tr>
     <th> Visual Studio Code</th>
