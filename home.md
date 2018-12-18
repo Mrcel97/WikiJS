@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: 1. Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
 # 5th activity options
