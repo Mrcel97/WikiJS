@@ -5,12 +5,12 @@
 1. Contextualization
 	1.1. Project Description
         a. Functional Requeriments
-		b. Homepage
+				b. Homepage
 	1.2. Objectives and motivations
     1.3. History
     1.4. Actual State
-        1.4.1. Actual Version
-        1.4.2. Repository 
+        a. Actual Version
+        b. Repository 
 
 2. Bussines System.
     2.1. Productes and Services offered
