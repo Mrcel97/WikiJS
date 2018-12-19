@@ -5,7 +5,7 @@
 	background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
-	margin-top:10%;">
+	margin-top:100%;">
 </div>
 
 
