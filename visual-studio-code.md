@@ -38,11 +38,6 @@
 </a>
 
 
-### Objectius i motivacions
-### Història
-### Estat Actual
-
-
 ## Sistema de negoci
 ### Productes i serveis oferits
 ### Costos dels usuaris
