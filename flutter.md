@@ -14,7 +14,7 @@
 <h2>Contextualització</h2>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" style="pointer-events: auto;
 	 cursor: pointer;">
-	 <h3 id="historia"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#historia"></a> Història</h3>+
+	 <a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#historia"></a><h3 id="historia"> Història</h3>+
 </a>  
 <div>
 	<ul>
