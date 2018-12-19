@@ -12,7 +12,7 @@
 	background-size: contain">
 </div>
 
-## Contextualització
+<title>Contextualització</title>
 
 ### Descripció del projecte
 #### Requeriments funcionals
