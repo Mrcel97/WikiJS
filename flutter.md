@@ -11,10 +11,9 @@
 
 
 # Flutter
-## Contextualització  
+<h1>Contextualització</h1>
 
-### Descripció del projecte 
-<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">-></a>
+<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci"><h2>Descripció del projecte</h2></a>
 #### Requeriments funcionals
 #### Lloc web
 
