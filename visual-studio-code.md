@@ -13,5 +13,5 @@
 </div>
 
 ## Description
-#### Què és Visual Studio Code?
+* Què és Visual Studio Code?
 
