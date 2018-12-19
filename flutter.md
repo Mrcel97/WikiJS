@@ -12,7 +12,7 @@
 
 # Flutter
 <h2>Contextualització</h2>
-### Descripció del projecte <a style="pointer-events: auto; cursor: pointer;" href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">+</a>
+### Descripció del projecte <a style="display: inline; pointer-events: auto; cursor: pointer;" href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">+</a>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
   <div href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
 	  <h2 style="pointer-events: auto;
