@@ -19,11 +19,29 @@
 	</div>
 </a>
 
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/obj-mot">
+	<h2 style="pointer-events: auto;
+		 cursor: pointer; text-decoration:none;">Objectius i motivacions</h2>
+	</div>
+</a>
+
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/historia">
+	<h2 style="pointer-events: auto;
+		 cursor: pointer; text-decoration:none;">Història</h2>
+	</div>
+</a>
+
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/estat-actual">
+	<h2 style="pointer-events: auto;
+		 cursor: pointer; text-decoration:none;">Estat Actual</h2>
+	</div>
+</a>
+
+
 ### Objectius i motivacions
 ### Història
 ### Estat Actual
-#### Actual Version
-#### Repository
+
 
 ## Sistema de negoci
 ### Productes i serveis oferits
