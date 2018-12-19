@@ -15,19 +15,31 @@
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3>Descripció del projecte</h3>
-</a>  
+</a>
 <div>
 	<ul>
 			<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a> Enginyeria de Requeriments</h4>
 		<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#lloc-web" aria-hidden="true"></a> Lloc web</h4>
 	</ul>
 </div>
-
-### Objectius i motivacions
-### Història
-### Estat Actual
-#### Actual Version
-#### Repository
+<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+	 <h3>Objectius i motivacions</h3>
+</a>
+<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+	 <h3>Història</h3>
+</a>
+<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+	 <h3>Estat Actual</h3>
+</a>
+<div>
+	<ul>
+			<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a> Versió Actual</h4>
+		<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#lloc-web" aria-hidden="true"></a>Repositori</h4>
+	</ul>
+</div>
 
 ## Sistema de negoci
 ### Productes i serveis oferits
