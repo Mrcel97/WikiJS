@@ -14,14 +14,14 @@
 ## Contextualització  
 
 ### Descripció del projecte  
-a. Requeriments funcionals
-b. Lloc web
+#### Requeriments funcionals
+#### Lloc web
 
 ### Objectius i motivacions
 ### Història
 ### Estat Actual
-a. Actual Version
-b. Repository
+#### Actual Version
+#### Repository
 
 ## Sistema de negoci
 ### Productes i serveis oferits
