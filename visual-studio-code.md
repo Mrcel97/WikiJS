@@ -12,7 +12,13 @@
 	background-size: contain">
 </div>
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio#contextualitzacio" ><h1 style="cursor:pointer; pointer-events: unset;">Contextualització</h1></a>
+<h1>Contextualització</h1>
+<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
+  <div href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
+	  <h2 style="pointer-events: auto;
+		 cursor: pointer;">Descripció del projecte</h2>
+	</div>
+</a>
 
 ### Descripció del projecte
 #### Requeriments funcionals
