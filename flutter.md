@@ -21,8 +21,8 @@
 	 text-decoration-color: transparent !important">Descripció del projecte</h2>
 </a>
 
-<h5>Requeriments funcionals</h5>
-<h4>Lloc web</h4>
+#### Requeriments funcionals
+##### Lloc web
 
 ### Objectius i motivacions
 ### Història
