@@ -14,17 +14,13 @@
 <h1>Contextualització</h1>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
 	<h2 style="pointer-events: auto;
-	 cursor: pointer;
-	 text-decoration: none !important;
-	 text-decoration-line: none !important;
-	 text-decoration-style: none !important;
-	 text-decoration-color: transparent !important">Descripció del projecte</h2>
+	 cursor: pointer;">Descripció del projecte</h2>
 </a>  
 <div>
-<ul>
-<li>Enginyeria de Requeriments</li>
-<li>Lloc web</li>
-</ul>
+	<ul>
+		<li>Enginyeria de Requeriments</li>
+		<li>Lloc web</li>
+	</ul>
 </div>
 
 ### Objectius i motivacions
