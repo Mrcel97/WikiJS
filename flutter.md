@@ -5,7 +5,7 @@
 	background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
-	padding-top: 10%">
+	padding-top: 30vw">
 </div>
 
 
