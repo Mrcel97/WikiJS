@@ -13,8 +13,8 @@
 </div>
 
 <h1>Contextualització</h1>
-<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
-  <div href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio">
+  <div href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/descripcio-projecte">
 	  <h2 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Descripció del projecte</h2>
 	</div>
