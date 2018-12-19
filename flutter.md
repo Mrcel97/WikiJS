@@ -15,7 +15,10 @@
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
 	<h2 style="pointer-events: auto;
 	 cursor: pointer;
-	 text-decoration: none !important">Descripció del projecte</h2>
+	 text-decoration: none;
+	 text-decoration-line: none;
+	 text-decoration-style: none;
+	 text-decoration-color: transparent">Descripció del projecte</h2>
 </a>
 
 <h3>Requeriments funcionals</h3>
