@@ -13,7 +13,12 @@
 # Flutter
 <h2>Contextualització</h2>
 
-<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci"><div href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci"><h2>Descripció del projecte</h2></div></a>
+<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
+  <div href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
+	  <h2 style="pointer-events: auto;
+		 cursor: pointer;">Descripció del projecte</h2>
+	</div>
+</a>
 <h4>Requeriments funcionals</h4>
 <h4>Lloc web</h4>
 
