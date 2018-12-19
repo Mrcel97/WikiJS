@@ -18,8 +18,8 @@
 		 cursor: pointer;">Descripció del projecte</h2>
 	</div>
 </a>
-##### Requeriments funcionals
-##### Lloc web
+#### Requeriments funcionals
+#### Lloc web
 
 ### Objectius i motivacions
 ### Història
