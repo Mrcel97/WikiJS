@@ -1,11 +1,11 @@
 <div style="
 	background-image: url(https://cdn-images-1.medium.com/max/2000/1*xC_TLYcq5MO4VGAPgPDqHg.png); 
-	height: 5em;
+	height: 15em;
 	background-attachment: fixed;
 	background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
-	padding-top: 10em;
+	padding-top: 100em;
 	background-color: #17aee2">
 </div>
 
