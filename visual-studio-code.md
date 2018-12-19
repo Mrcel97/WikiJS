@@ -13,7 +13,7 @@
 </div>
 
 ## Contextualització
-https://wiki-js-epl.herokuapp.com/visual-studio-code#contextualitzacio
+https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio
 
 ### Descripció del projecte  
 #### Requeriments funcionals
