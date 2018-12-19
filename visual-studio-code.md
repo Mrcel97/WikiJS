@@ -12,11 +12,11 @@
 	background-size: contain">
 </div>
 
-<h2> Contextualització</h2>
+## Contextualització
 
-<h3>Descripció del projecte</h3>  
-<h4>Requeriments funcionals</h4>
-<h4>Lloc web</h4>
+### Descripció del projecte
+#### Requeriments funcionals
+#### Lloc web
 
 ### Objectius i motivacions
 ### Història
