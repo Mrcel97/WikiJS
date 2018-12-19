@@ -12,7 +12,7 @@
 
 # Flutter
 <h2>Contextualització</h2>
-
+<div href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">INFO</div>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">Link</a>
 <h4>Requeriments funcionals</h4>
 <h4>Lloc web</h4>
