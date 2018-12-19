@@ -22,7 +22,7 @@
 </a>  
 <div>
 <ul>
-<p>item 1</p>
+<li>item 1</li>
 </ul>
 </div>
 
