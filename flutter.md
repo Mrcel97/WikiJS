@@ -18,8 +18,8 @@
 </a>  
 <div>
 	<ul>
-		<a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a> Actual Version
-		<li class="nc-icon-outline location_bookmark-add internal-link">Lloc web</li>
+		<a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true">Enginyeria de Requeriments</a>
+		<a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true">Lloc web</a>
 	</ul>
 </div>
 
