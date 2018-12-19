@@ -14,7 +14,7 @@
 <h2>Contextualització</h2>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
 	 <h3 style="pointer-events: auto;
-	 cursor: pointer;" id="objectius-i-motivacions"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" aria-hidden="true"></a> Descripció del projecte</h3>
+	 cursor: pointer;" id="objectius-i-motivacions"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" aria-hidden="true"> Descripció del projecte</a></h3>
 </a>  
 <div>
 	<ul>
