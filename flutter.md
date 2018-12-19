@@ -18,12 +18,8 @@
 </a>  
 <div>
 	<ul>
-		<li>
 			<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a>Enginyeria de Requeriments</h4>
-		</li>
-		<li>
 		<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#lloc-web" aria-hidden="true"></a> Lloc web</h4>
-		</li>
 	</ul>
 </div>
 
