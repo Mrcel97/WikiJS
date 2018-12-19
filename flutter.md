@@ -17,8 +17,8 @@
 a. Requeriments funcionals
 b. Lloc web
 
-## Objectius i motivacions
-## Història
-## Estat Actual
+### Objectius i motivacions
+### Història
+### Estat Actual
 a. Actual Version
 b. Repository
