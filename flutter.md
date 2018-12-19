@@ -4,8 +4,7 @@
 	background-attachment: fixed;
 	background-position: top;
   background-repeat: no-repeat;
-	background-size: contain;
-	margin-top:100%;">
+	background-size: contain;">
 </div>
 
 
