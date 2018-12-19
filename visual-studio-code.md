@@ -13,6 +13,7 @@
 </div>
 
 ## Contextualització
+
 ### Descripció del projecte  
 #### Requeriments funcionals
 #### Lloc web
