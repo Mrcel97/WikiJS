@@ -28,11 +28,11 @@
 </a>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-	 <h3>Història</h3>
+	 <h3> Història</h3>
 </a>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-	 <h3>Estat Actual</h3>
+	 <h3> Estat Actual</h3>
 </a>
 <div>
 	<ul>
