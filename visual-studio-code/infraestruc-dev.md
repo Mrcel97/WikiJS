@@ -1,4 +1,9 @@
-<!-- TITLE: Infraestructura per als desenvolupadors-->
-<!-- SUBTITLE: Infraestructura per als desenvolupadors -->
+<!-- TITLE: Infraestructura de suport al desenvolupament -->
+<!-- SUBTITLE: Infraestructura de suport al desenvolupament -->
 
-# Infraestructura per als desenvolupadors
+# Infraestructura de suport al desenvolupament
+### Repositori del projete
+### Mecanismes de comunicació
+### Eines de comunicació
+### Eines de control de versions
+### Eines de seguiment d'errors
