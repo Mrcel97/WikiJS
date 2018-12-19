@@ -20,9 +20,8 @@
 	 text-decoration-style: none !important;
 	 text-decoration-color: transparent !important">Descripció del projecte</h2>
 </a>
-
 #### Requeriments funcionals
-##### Lloc web
+#### Lloc web
 
 ### Objectius i motivacions
 ### Història
