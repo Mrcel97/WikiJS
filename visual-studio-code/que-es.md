@@ -4,8 +4,6 @@
 # Què és Visual Studio Code
 ajaix == agile (M. Sendin)
 
-Visual Studio Code is an open-source and free source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring.
-
 Visual Studio Code és un editor de codi open-source desenvolupat per Microsoft. S'adapta als següents sistems operatius:
 * Windows
 * Linux
@@ -16,3 +14,10 @@ Aquest editor, entre moltes altres opcions/funcionalitats, inclou:
 *  Ressaltat de la sintaxi del codi (syntax highlighting)
 *  Possibilitat de autocompletar el codi de forma intel·ligent
 *  Possibilitat de refactoritzar el codi
+
+
+<ul class="leaf">
+<li>I’m writing a long list item 1 so you can see what happens when the text wraps across multiple lines</li>
+<li>List item 2</li>
+<li>List item 3</li>
+</ul>
