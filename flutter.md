@@ -22,3 +22,10 @@ b. Lloc web
 ### Estat Actual
 a. Actual Version
 b. Repository
+
+## Bussines System.
+### Productes and Services offered
+### Costs or the users
+### Bussines model and revenue source
+### Financing Method
+### Licenses
