@@ -4,7 +4,7 @@
 # Visual Studio Code
 
 <div style="
-	background-image: url(https://spin.atomicobject.com/wp-content/uploads/20171121134320/VS-Code.jpg); 
+	background-image: url(https://i.ytimg.com/vi/anvYeA1pWlk/maxresdefault.jpg); 
 	height: 20em; 
 	background-attachment: fixed;
 	background-position: top;
