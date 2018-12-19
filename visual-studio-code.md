@@ -12,7 +12,7 @@
 	background-size: contain">
 </div>
 
-## Contextualització
+## Contextualització https://wiki-js-epl.herokuapp.com/visual-studio-code#contextualitzacio
 
 ### Descripció del projecte  
 #### Requeriments funcionals
