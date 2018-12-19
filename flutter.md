@@ -5,7 +5,6 @@
 	background-position: center;
   background-repeat: no-repeat;
 	background-size: contain;
-	padding-top: 10em;
 	background-color: #17aee2">
 </div>
 
