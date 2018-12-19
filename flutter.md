@@ -14,7 +14,8 @@
 <h1>Contextualització</h1>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
 	<h2 style="pointer-events: auto;
-	 cursor: pointer;">Descripció del projecte</h2>
+	 cursor: pointer;
+	 text-decoration: none">Descripció del projecte</h2>
 </a>
 
 <h3>Requeriments funcionals</h3>
