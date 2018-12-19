@@ -2,7 +2,11 @@
 <!-- SUBTITLE: Breu contextualització -->
 
 # Contextualització
-
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/descripcio-projecte">
+	<h2 style="pointer-events: auto;
+		 cursor: pointer; text-decoration:none;">Descripció del projecte</h2>
+	</div>
+</a>
 Visual Studio Code és un editor de codi open-source desenvolupat per Microsoft. S'adapta als següents sistems operatius:
 * Windows
 * Linux
