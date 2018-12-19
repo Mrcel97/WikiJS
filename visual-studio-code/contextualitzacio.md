@@ -1,7 +1,7 @@
 <!-- TITLE: Contextualització -->
 <!-- SUBTITLE: Breu contextualització -->
 
-# Descripció del projecte
+# Contextualiztació
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/descripcio-projecte">
 	<h2 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Descripció del projecte</h2>
