@@ -79,18 +79,6 @@
 	</div>
 </a>
 
-
-## Infraestructura de suport al desenvolupament
-### Repositori del projete
-### Mecanismes de comunicació
-### Eines de comunicació
-### Eines de control de versions
-### Eines de seguiment d'errors
-## Tipologia del projecte
-### Project Development Model
-### Estructuració jeràrquica
-### Resolució de conflictes
-
 ## Comunitat
 ### Tamany/Mida
 ### Estructuració social
@@ -101,8 +89,5 @@
 ### Tamany del equip de desenvolupadors
 ### Resultats obtinguts (linies de codi, fitxers, etc)
 
-## Opinió
-
-## Comparativa amb altres eines (IDE's) FOSS
 
 
