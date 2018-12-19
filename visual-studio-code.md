@@ -14,9 +14,9 @@
 
 <h2> Contextualització</h2>
 
-### Descripció del projecte  
-#### Requeriments funcionals
-#### Lloc web
+<h3>Descripció del projecte</h3>  
+<h4>Requeriments funcionals</h4>
+<h4>Lloc web</h4>
 
 ### Objectius i motivacions
 ### Història
