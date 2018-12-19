@@ -18,7 +18,7 @@
 </a>  
 <div>
 	<ul>
-		<a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true">Enginyeria de Requeriments</a>
+		<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a>Enginyeria de Requeriments</h4>
 	</ul>
 </div>
 
