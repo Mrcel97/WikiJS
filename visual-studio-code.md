@@ -3,7 +3,14 @@
 
 # Visual Studio Code
 
-dlkasdkhjasdflkjadflkjlsfdklhnñdf
+<div style="
+	background-image: url(https://spin.atomicobject.com/wp-content/uploads/20171121134320/VS-Code.jpg); 
+	height: 20em; 
+	background-attachment: fixed;
+	background-position: top;
+  background-repeat: no-repeat;
+	background-size: contain">
+</div>
 
 ## Description
 lhfdskjhasdflkj
