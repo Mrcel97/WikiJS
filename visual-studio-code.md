@@ -12,17 +12,12 @@
 	background-size: contain">
 </div>
 
-<h1>Contextualització</h1>
+
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio">
-  <div href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/descripcio-projecte">
-	  <h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Descripció del projecte</h2>
+	<h2 style="pointer-events: auto;
+		 cursor: pointer; text-decoration:none;">Contextualització</h2>
 	</div>
 </a>
-
-### Descripció del projecte
-#### Requeriments funcionals
-#### Lloc web
 
 ### Objectius i motivacions
 ### Història
