@@ -19,7 +19,7 @@
 	 text-decoration-line: none !important;
 	 text-decoration-style: none !important;
 	 text-decoration-color: transparent !important">Descripció del projecte</h2>
-</a>
+</a>  
 #### Requeriments funcionals
 #### Lloc web
 
