@@ -32,6 +32,4 @@
 
 ### Comparativa amb altres eines (IDE's) FOSS
 
-7. Opinion
-8. Comparative with other FOSS tools
 
