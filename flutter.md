@@ -5,7 +5,7 @@
 	background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
-	padding-top: 100em;
+	margin-top: 100em;
 	background-color: #17aee2">
 </div>
 
