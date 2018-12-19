@@ -36,3 +36,24 @@
 ### Eines de comunicació
 ### Eines de control de versions
 ### Eines de seguiment d'errors
+
+## Tipologia del projecte
+### Project Development Model
+### Estructuració jeràrquica
+### Resolució de conflictes
+
+## Comunitat
+### Tamany/Mida
+### Estructuració social
+### Motius/Signifcat del sistema de donació
+
+## Curiositats
+### Llenguatge de programació
+### Tamany del equip de desenvolupadors
+### Resultats obtinguts (linies de codi, fitxers, etc)
+
+## Opinió
+
+## Comparativa amb altres eines (IDE's) FOSS
+
+
