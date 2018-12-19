@@ -19,7 +19,6 @@
 <div>
 	<ul>
 		<a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true">Enginyeria de Requeriments</a>
-		<a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true">Lloc web</a>
 	</ul>
 </div>
 
