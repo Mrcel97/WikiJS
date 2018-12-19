@@ -12,7 +12,7 @@
 	background-size: contain">
 </div>
 
-<title>Contextualització</title>
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio#contextualitzacio">Contextualització</a>
 
 ### Descripció del projecte
 #### Requeriments funcionals
