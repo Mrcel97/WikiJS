@@ -23,9 +23,9 @@ b. Lloc web
 a. Actual Version
 b. Repository
 
-## Bussines System.
-### Productes and Services offered
-### Costs or the users
-### Bussines model and revenue source
-### Financing Method
-### Licenses
+## Sistema de negoci
+### Productes i serveis oferits
+### Costos dels usuaris
+### Model de negoci i font d'ingressos.
+### Mètode de finançament
+### Llicències
