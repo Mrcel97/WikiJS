@@ -22,7 +22,8 @@
 </a>  
 <div>
 <ul>
-<li>item 1</li>
+<li>Enginyeria de Requeriments</li>
+<li>Lloc web</li>
 </ul>
 </div>
 
