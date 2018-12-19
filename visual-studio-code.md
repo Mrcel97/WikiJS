@@ -12,6 +12,6 @@
 	background-size: contain">
 </div>
 
-## Description
+## Contextualització
 ### Què és Visual Studio Code?
 
