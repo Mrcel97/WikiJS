@@ -29,3 +29,10 @@ b. Repository
 ### Model de negoci i font d'ingressos.
 ### Mètode de finançament
 ### Llicències
+
+## Infraestructura de suport al desenvolupament
+### Repositori del projete
+### Mecanismes de comunicació
+### Eines de comunicació
+### Eines de control de versions
+### Eines de seguiment d'errors
