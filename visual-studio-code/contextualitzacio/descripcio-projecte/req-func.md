@@ -1,4 +1,4 @@
-<!-- TITLE: Req Func -->
-<!-- SUBTITLE: A quick summary of Req Func -->
+<!-- TITLE: Requeriments funcionals -->
+<!-- SUBTITLE: Requeriments funcionals del projecte -->
 
-# Requeriments del projecte
+# Requeriments funcionals
