@@ -11,11 +11,11 @@
 
 
 # Flutter
-<h2>Contextualització</h2>
+<h1>Contextualització</h1>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
   <div href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci">
-	  <h3 style="pointer-events: auto;
-		 cursor: pointer;">Descripció del projecte</h3>
+	  <h2 style="pointer-events: auto;
+		 cursor: pointer;">Descripció del projecte</h2>
 	</div>
 </a>
 ##### Requeriments funcionals
