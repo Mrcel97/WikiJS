@@ -22,7 +22,7 @@
 </a>  
 <div>
 <h4>Requeriments funcionals</h4>
-<h5>Lloc web</h5>
+<h4>Lloc web</h4>
 </div>
 
 ### Objectius i motivacions
