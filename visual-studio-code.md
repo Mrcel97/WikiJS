@@ -37,6 +37,11 @@
 	</div>
 </a>
 
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/sys-neg">
+	<h2 style="pointer-events: auto;
+		 cursor: pointer; text-decoration:none;">Sistema de negoci</h2>
+	</div>
+</a>
 
 ## Sistema de negoci
 ### Productes i serveis oferits
