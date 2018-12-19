@@ -18,8 +18,8 @@
 </a>  
 <div>
 	<ul>
-		<li class="toc-anchor nc-icon-outline location_bookmark-add internal-link">Enginyeria de Requeriments</li>
-		<li class="toc-anchor nc-icon-outline location_bookmark-add internal-link">Lloc web</li>
+		<li class="toc-anchor">Enginyeria de Requeriments</li>
+		<li class="toc-anchor">Lloc web</li>
 	</ul>
 </div>
 
