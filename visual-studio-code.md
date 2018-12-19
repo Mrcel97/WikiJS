@@ -20,10 +20,12 @@ lhfdskjhasdflkj
     <th class="tg-0lax">laksdfkjhalksdh</th>
   </tr>
 </table>
-<tr>a</tr>
-<tr>b</tr>
-<tr>c</tr>
-<tr>d</tr>
-<tr>e</tr>
-<tr>f</tr>
-<tr>g</tr>
+<table>
+	<tr>a</tr>
+	<tr>b</tr>
+	<tr>c</tr>
+	<tr>d</tr>
+	<tr>e</tr>
+	<tr>f</tr>
+	<tr>g</tr>
+</table>
