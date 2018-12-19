@@ -1,4 +1,4 @@
-<!-- TITLE: Repositori -->
-<!-- SUBTITLE: A quick summary of Repositori -->
+<!-- TITLE: Repositori del projecte-->
+<!-- SUBTITLE: Repositori del projecte -->
 
-# Repo
+# Repositori del projecte
