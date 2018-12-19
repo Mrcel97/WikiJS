@@ -14,8 +14,8 @@
 <h1>Contextualització</h1>
 
 <a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci"><h2>Descripció del projecte</h2></a>
-#### Requeriments funcionals
-#### Lloc web
+<h3>Requeriments funcionals</h3>
+<h3>Lloc web</h3>
 
 ### Objectius i motivacions
 ### Història
