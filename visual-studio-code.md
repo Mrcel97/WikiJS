@@ -13,23 +13,23 @@
 </div>
 
 ## Contextualització
-### Tipologia del projecte
-#### Project Development Model
-#### Estructuració jeràrquica
-#### Resolució de conflictes
+## Tipologia del projecte
+### Project Development Model
+### Estructuració jeràrquica
+### Resolució de conflictes
 
-### Comunitat
-#### Tamany/Mida
-#### Estructuració social
-#### Motius/Signifcat del sistema de donació
+## Comunitat
+### Tamany/Mida
+### Estructuració social
+### Motius/Signifcat del sistema de donació
 
-### Curiositats
-#### Llenguatge de programació
-#### Tamany del equip de desenvolupadors
-#### Resultats obtinguts (linies de codi, fitxers, etc)
+## Curiositats
+### Llenguatge de programació
+### Tamany del equip de desenvolupadors
+### Resultats obtinguts (linies de codi, fitxers, etc)
 
-### Opinió
+## Opinió
 
-### Comparativa amb altres eines (IDE's) FOSS
+## Comparativa amb altres eines (IDE's) FOSS
 
 
