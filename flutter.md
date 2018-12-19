@@ -1,6 +1,5 @@
 <div style="
 	background-image: url(https://matwrites.com/wp-content/uploads/2018/03/Flutter.png); 
-	height: 20em; 
 	background-attachment: fixed;
 	background-position: top;
   background-repeat: no-repeat;
