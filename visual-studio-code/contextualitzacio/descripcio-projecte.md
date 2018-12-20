@@ -30,7 +30,7 @@
 
 <p> Aquest editor, entre moltes altres opcions/funcionalitats, inclou: </p>
 
-<table style="text-align:center; margin:auto;">
+<table style="text-align:center;">
   <thead>
     <tr>
 			<th style="background-color:#263238; border: 1px solid #37474f; " scope="col">#</th>
