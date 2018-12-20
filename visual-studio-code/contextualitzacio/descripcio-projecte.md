@@ -13,7 +13,7 @@ Aquest editor, entre moltes altres opcions/funcionalitats, inclou:
 *  Possibilitat de autocompletar el codi de forma intel·ligent
 *  Possibilitat de refactoritzar el codi
 
-<table class="table table-striped">
+<table class="table table-striped" style="text-align:center">
   <thead>
     <tr>
       <th style="background-color:#263238; border: 1px solid #37474f; " scope="col">#</th>
