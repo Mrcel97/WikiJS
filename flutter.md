@@ -16,7 +16,7 @@
 <div>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/descripcio-projecte" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-	 <h3>Descripció del projecte</h3>
+	 <h4>Descripció del projecte</h4>
 </a>
 </div>
 </div>
