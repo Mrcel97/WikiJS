@@ -27,11 +27,11 @@
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3>Objectius i motivacions</h3>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/historia" 
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/contextualitzacio/historia" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Història</h3>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/estat-actual" 
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/contextualitzacio/estat-actual" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Estat Actual</h3>
 			</a>
