@@ -7,7 +7,9 @@
   <thead>
     <tr>
       <th style="background-color:#263238; border: 1px solid #37474f; " scope="col">#</th>
-      <th style="background-color:#263238; border: 1px solid #37474f; "  scope="col">Característiques</th>
+      <th style="background-color:#263238; border: 1px solid #37474f; "  scope="col">Primer</th>
+			<th style="background-color:#263238; border: 1px solid #37474f; "  scope="col">Segon</th>
+			<th style="background-color:#263238; border: 1px solid #37474f; "  scope="col">Tercer</th>
     </tr>
   </thead>
   <tbody>
