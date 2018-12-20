@@ -14,7 +14,7 @@
 <div>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/contextualitzacio" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">Contextualització</h2></a>
 <div>
-<ul style="margin-top: -10em !important">
+<ul style="margin-top: -.75em !important">
 <a href="https://wiki-js-epl.herokuapp.com/flutter/descripcio-projecte" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3>Descripció del projecte</h3>
