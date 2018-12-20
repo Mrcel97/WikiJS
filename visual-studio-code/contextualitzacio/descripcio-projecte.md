@@ -3,6 +3,7 @@
 
 # Descripcio del projecte
 <p>Visual Studio Code és un editor de codi open-source desenvolupat per Microsoft. S'adapta als següents sistemes operatius:</p>
+<br/>
 <table style="text-align:center; margin:auto;">
   <thead>
     <tr>
@@ -27,9 +28,9 @@
     </tr>
   </tbody>
 </table>
-
+<br/>
 <p> Aquest editor, entre moltes altres opcions/funcionalitats, inclou: </p>
-
+<br/>
 <table style="text-align:center;">
   <thead>
     <tr>
@@ -60,3 +61,4 @@
     </tr>
   </tbody>
 </table>
+<br/>
