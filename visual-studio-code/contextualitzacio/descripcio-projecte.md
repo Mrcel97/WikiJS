@@ -13,40 +13,8 @@ Aquest editor, entre moltes altres opcions/funcionalitats, inclou:
 *  Possibilitat de autocompletar el codi de forma intel·ligent
 *  Possibilitat de refactoritzar el codi
 
-
-<table class="table">
+<table class="table table-striped">
   <thead>
-    <tr style="background-color:#aec8fb">
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="table">
-  <thead class="thead-light">
     <tr>
       <th scope="col">#</th>
       <th scope="col">First</th>
@@ -75,7 +43,6 @@ Aquest editor, entre moltes altres opcions/funcionalitats, inclou:
     </tr>
   </tbody>
 </table>
-
 
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/descripcio-projecte/req-func">
 	<h2 style="pointer-events: auto;
