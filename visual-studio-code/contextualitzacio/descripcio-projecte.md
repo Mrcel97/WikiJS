@@ -17,9 +17,9 @@ Aquest editor, entre moltes altres opcions/funcionalitats, inclou:
   <thead>
     <tr style="background-color:#263238" >
       <th style="background-color:#263238" scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th style="background-color:#263238"  scope="col">First</th>
+      <th style="background-color:#263238"  scope="col">Last</th>
+      <th style="background-color:#263238"  scope="col">Handle</th>
     </tr>
   </thead>
   <tbody>
