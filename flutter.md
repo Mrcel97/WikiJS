@@ -11,7 +11,7 @@
 
 
 # Flutter
-<h2><a>Contextualització</a></h2>
+<h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"><a style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">Contextualització</a></h2>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/descripcio-projecte" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3>Descripció del projecte</h3>
