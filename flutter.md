@@ -61,7 +61,7 @@
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Model de negoci i font d'ingressos</h3>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/metode-finançament" 
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/metode-financament" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Mètode de finançament</h3>
 			</a>
