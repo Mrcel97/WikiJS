@@ -79,15 +79,5 @@
 	</div>
 </a>
 
-## Comunitat
-### Tamany/Mida
-### Estructuració social
-### Motius/Signifcat del sistema de donació
-
-## Curiositats
-### Llenguatge de programació
-### Tamany del equip de desenvolupadors
-### Resultats obtinguts (linies de codi, fitxers, etc)
-
 
 
