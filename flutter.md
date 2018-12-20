@@ -23,13 +23,16 @@
 				<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a> Enginyeria de Requeriments</h4>
 				<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#lloc-web" aria-hidden="true"></a> Lloc web</h4>
 			</ul>
+			
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/objectius-motivacions" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3>Objectius i motivacions</h3>
+		</a>
+			
 		</ul>
 	</div>
 </div>
-<a href="https://wiki-js-epl.herokuapp.com/flutter/objectius-motivacions" 
-		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-	 <h3>Objectius i motivacions</h3>
-</a>
+
 <a href="https://wiki-js-epl.herokuapp.com/flutter/historia" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3> Història</h3>
