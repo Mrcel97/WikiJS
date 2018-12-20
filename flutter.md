@@ -12,7 +12,7 @@
 
 # Flutter
 <h2>Contextualització</h2>
-<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
+<a href="https://wiki-js-epl.herokuapp.com/flutter/contextualitzacio" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3>Descripció del projecte</h3>
 </a>
@@ -22,7 +22,7 @@
 		<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#lloc-web" aria-hidden="true"></a> Lloc web</h4>
 	</ul>
 </div>
-<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
+<a href="https://wiki-js-epl.herokuapp.com/flutter/objectius-motivacions" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3>Objectius i motivacions</h3>
 </a>
