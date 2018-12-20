@@ -36,10 +36,11 @@
 <table style="text-align:center">
   <thead>
     <tr>
-      <th style="background-color:#263238; border: 1px solid #37474f; " scope="col">#</th>
-      <th style="background-color:#263238; border: 1px solid #37474f; "  scope="col">First</th>
-      <th style="background-color:#263238; border: 1px solid #37474f; "  scope="col">Second</th>
-      <th style="background-color:#263238; border: 1px solid #37474f; "   scope="col">Last</th>
+			<th style="background-color:#263238; border: 1px solid #37474f; " scope="col">#</th>
+      <th style="background-color:#263238; border: 1px solid #37474f; " scope="col">Primer</th>
+      <th style="background-color:#263238; border: 1px solid #37474f; "  scope="col">Segon</th>
+      <th style="background-color:#263238; border: 1px solid #37474f; "  scope="col">Tercer</th>
+      <th style="background-color:#263238; border: 1px solid #37474f; "   scope="col">Quart</th>
     </tr>
   </thead>
   <tbody>
