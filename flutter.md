@@ -46,7 +46,7 @@
 </div>
 
 <div> <!-- Titol -->
-	<a href="https://wiki-js-epl.herokuapp.com/flutter/contextualitzacio" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Sistema de Negoci</h2></a>
+	<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Sistema de Negoci</h2></a>
 	<div>
 		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
 			<a href="https://wiki-js-epl.herokuapp.com/flutter/contextualitzacio/productes-serveis" 
