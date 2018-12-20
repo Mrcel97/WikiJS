@@ -73,12 +73,6 @@
 		</ul>
 	</div>
 </div>
-## Sistema de negoci
-### Productes i serveis oferits
-### Costos dels usuaris
-### Model de negoci i font d'ingressos.
-### Mètode de finançament
-### Llicències
 
 ## Infraestructura de suport al desenvolupament
 ### Repositori del projete
