@@ -16,7 +16,7 @@ Aquest editor, entre moltes altres opcions/funcionalitats, inclou:
 
 <table class="table">
   <thead class="thead-dark" >
-    <tr style="bg-color:#aec8fb !important">
+    <tr style="backgroundcolor:#aec8fb">
       <th scope="col">#</th>
       <th scope="col">First</th>
       <th scope="col">Last</th>
