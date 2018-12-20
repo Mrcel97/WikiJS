@@ -3,7 +3,7 @@
 
 # Descripcio del projecte
 <p>Visual Studio Code és un editor de codi open-source desenvolupat per Microsoft. S'adapta als següents sistemes operatius:</p>
-<table style="text-align:center">
+<table style="text-align:center; margin:auto;">
   <thead>
     <tr>
       <th style="background-color:#263238; border: 1px solid #37474f; " scope="col">#</th>
@@ -27,12 +27,10 @@
     </tr>
   </tbody>
 </table>
+
 <p> Aquest editor, entre moltes altres opcions/funcionalitats, inclou: </p>
-*  
-*  
-*  
-*  
-<table style="text-align:center">
+
+<table style="text-align:center; margin:auto;">
   <thead>
     <tr>
 			<th style="background-color:#263238; border: 1px solid #37474f; " scope="col">#</th>
@@ -62,16 +60,3 @@
     </tr>
   </tbody>
 </table>
-
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/descripcio-projecte/req-func">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Requeriments Funcionals</h2>
-	</div>
-</a>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/descripcio-projecte/web">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Lloc web</h2>
-	</div>
-</a>
