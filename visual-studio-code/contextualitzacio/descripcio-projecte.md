@@ -21,9 +21,9 @@
     </tr>
     <tr>
       <th style="background-color:#263238; border: 1px solid #37474f; vertical-align:middle" scope="row">Logo</th>
-      <td><img style="width:8em; vertical-align:middle;" src="http://assets.stickpng.com/thumbs/5a01b63d7ca233f48ba6278f.png"/></td>
-      <td><img style="width:8em; vertical-align:middle;" src="http://pngimg.com/uploads/linux/linux_PNG29.png"/></td>
-      <td><img style="width:7em; vertical-align:middle;" src="https://www.logolynx.com/images/logolynx/13/137fbbc45babc1c2df798ebbac18eca5.png"/></td>
+      <td style="vertical-align:middle;"><img style="width:8em;" src="http://assets.stickpng.com/thumbs/5a01b63d7ca233f48ba6278f.png"/></td>
+      <td style="vertical-align:middle;"><img style="width:8em;" src="http://pngimg.com/uploads/linux/linux_PNG29.png"/></td>
+      <td style="vertical-align:middle;"><img style="width:7em; " src="https://www.logolynx.com/images/logolynx/13/137fbbc45babc1c2df798ebbac18eca5.png"/></td>
     </tr>
   </tbody>
 </table>
