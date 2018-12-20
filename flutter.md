@@ -12,11 +12,13 @@
 
 # Flutter
 <div>
-<a><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">Contextualització</h2></a>
+<a href="https://wiki-js-epl.herokuapp.com/flutter/descripcio-projecte" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">Contextualització</h2></a>
+<div>
 <a href="https://wiki-js-epl.herokuapp.com/flutter/descripcio-projecte" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3>Descripció del projecte</h3>
 </a>
+</div>
 </div>
 <ul>
 	<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a> Enginyeria de Requeriments</h4>
