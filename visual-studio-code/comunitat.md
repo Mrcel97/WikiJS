@@ -8,7 +8,7 @@
 		 cursor: pointer; text-decoration:none;"> Tamany/Mida</h2>
 	</div>
 </a>
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev/mecanismes-comunicacio">
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat/sys-donacio">
 	<h2 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Estructuració social</h2>
 	</div>
