@@ -26,11 +26,11 @@
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3>Objectius i motivacions</h3>
 </a>
-<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
+<a href="https://wiki-js-epl.herokuapp.com/flutter/historia" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3> Història</h3>
 </a>
-<a href="https://wiki-js-epl.herokuapp.com/flutter/sitema-de-negoci" 
+<a href="https://wiki-js-epl.herokuapp.com/flutter/estat-actual" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3> Estat Actual</h3>
 </a>
