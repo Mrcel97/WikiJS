@@ -27,10 +27,6 @@
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3>Objectius i motivacions</h3>
 		</a>
-		</ul>
-	</div>
-</div>
-
 <a href="https://wiki-js-epl.herokuapp.com/flutter/historia" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 	 <h3> Història</h3>
@@ -44,6 +40,9 @@
 			<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a> Versió Actual</h4>
 		<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#lloc-web" aria-hidden="true"></a> Repositori</h4>
 	</ul>
+</div>
+</ul>
+	</div>
 </div>
 
 ## Sistema de negoci
