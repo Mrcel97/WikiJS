@@ -27,7 +27,6 @@
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3>Objectius i motivacions</h3>
 		</a>
-			
 		</ul>
 	</div>
 </div>
