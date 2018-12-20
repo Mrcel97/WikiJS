@@ -20,20 +20,20 @@
 </a>
 
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/obj-mot">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Objectius i motivacions</h2>
+	<h3 style="pointer-events: auto;
+		 cursor: pointer; text-decoration:none;">Objectius i motivacions</h3>
 	</div>
 </a>
 
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/historia">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Història</h2>
+	<h3 style="pointer-events: auto;
+		 cursor: pointer; text-decoration:none;">Història</h3>
 	</div>
 </a>
 
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/estat-actual">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Estat Actual</h2>
+	<h3 style="pointer-events: auto;
+		 cursor: pointer; text-decoration:none;">Estat Actual</h3>
 	</div>
 </a>
 
