@@ -24,7 +24,8 @@ Les eines que integra visual studio code per tal de realitzar un seguiment als e
     </tr>
     <tr>
       <th style="background-color:#263238; border: 1px solid #37474f; vertical-align:middle" scope="row">Eina emprada per debuggar  el desenvolupament de visual studio code?</th>
-			<td><p>La eina emprada s'anomena azure pipeline que no deixa de ser una "tool" d'integració continua la qual passa tots els testos.</p>
+			<td><p>La eina emprada s'anomena azure pipeline que no deixa de ser una "tool" d'integració continua la qual passa tots els testos. 
+			La interfície que mostra el progrés de les múltiples bateries de testing que es passen, es la que es veu en la següent imatge.</p>
 			<img src="//azurecomcdn.azureedge.net/cvt-fc5ec00ad7ab7c10ca92aaa41343afdf918aede5a9df860e191b8913d082778e/images/page/services/devops/pipelines/screenshot.jpg"/></td>
     </tr>
   </tbody>
