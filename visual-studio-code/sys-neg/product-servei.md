@@ -16,10 +16,10 @@ A més a més del pròpi editor de codi com a tal, Visual Studi Code proposa un 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<tr>
 		<th style="background-color: white; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:left">
-			<img style="max-width: 2em" src="https://c.staticblitz.com/assets/icon-664493542621427cc8adae5e8f50d632f87aaa6ea1ce5b01e9a3d05b57940a9f.png">
+			<img style="max-width: 2em; margin: auto" src="https://c.staticblitz.com/assets/icon-664493542621427cc8adae5e8f50d632f87aaa6ea1ce5b01e9a3d05b57940a9f.png">
 		</th>
 		<th style="background-color: white; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:left;vertical-align:top">
-			<img style="max-width: 2em"  src="https://image.flaticon.com/icons/png/512/25/25231.png">
+			<img style="max-width: 2em; margin: auto"  src="https://image.flaticon.com/icons/png/512/25/25231.png">
 		</th>
 		<th style="background-color: white; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:left;vertical-align:top">
 		</th>
