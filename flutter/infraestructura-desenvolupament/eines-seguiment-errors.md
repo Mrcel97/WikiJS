@@ -1,4 +1,9 @@
 <!-- TITLE: Eines Seguiment Errors -->
-<!-- SUBTITLE: A quick summary of Eines Seguiment Errors -->
+# Cirrus CI
+Flutter utilitza Cirrus CI, ja que, permet fer el cicle de desenvolupament més ràpid, eficient i segur aprofitant la moderna tecnologia de *cloud computing*.
+Cirrus CI escala amb l'equip i fa el desplegament del software ràpid i barat.
 
-# Header
+## Configuració de Flutter a Cirrus CI
+
+Flutter configura CirrusCI per a que comprovi que totes les *pull requests* siguin vàlides, és a dir, que passin totes les proves correctament, abans d'acceptar-les. A més una vegada ha comprovat que les incorporacions noves de codi a la branca "master" són correctes, automàticament realitza una release a la secció de *releases* de github.
+Tenir aquesta configuració facilita la **detecció d'errors**, de forma fàcil i eficient, en el cicle de desenvolupament. 
