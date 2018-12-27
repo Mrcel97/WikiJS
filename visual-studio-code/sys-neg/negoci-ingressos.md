@@ -24,10 +24,11 @@ Visual Studio Code, al igual que Flutter amb Google, és una estensió del model
 		</tr>
 		<tr>
 		<td style="vertical-align:middle; text-align: center"><a style="color: gray" href="https://partner.microsoft.com/es-es/">Microsoft Partners</a></td>
-			<td style="vertical-align:middle; text-align: center"><a style="color: gray" href="https://www.microsoft.com/en-us/research/search/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fcatalog%2Fdefault.aspx%3Ft%3Dprojects">Key Activities</a></td>
-			<td style="vertical-align:middle; text-align: center">Motor de cerca</td>
-			<td style="vertical-align:middle; text-align: center">Android</td>
-			<td style="vertical-align:middle; text-align: center">Productes</td>
+			<td style="vertical-align:middle; text-align: center"><a style="color: gray" href="https://www.microsoft.com/en-us/research/search/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fcatalog%2Fdefault.aspx%3Ft%3Dprojects">Activititats Principals</a></td>
+			<td style="vertical-align:middle; text-align: center">Recursos Principals</td>
+			<td style="vertical-align:middle; text-align: center">Productes sota llicència</td>
+			<td style="vertical-align:middle; text-align: center">Relacions amb els clients</td>
+			<td style="vertical-align:middle; text-align: center">Canals de comunicació</td>
 		</tr>
 	</tbody>
 </table>
