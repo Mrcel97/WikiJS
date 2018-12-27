@@ -24,19 +24,7 @@ Les eines que integra visual studio code per tal de realitzar un seguiment als e
     </tr>
     <tr>
       <th style="background-color:#263238; border: 1px solid #37474f; vertical-align:middle" scope="row">Eina emprada per debuggar  el desenvolupament de visual studio code?</th>
-			<td><img src=""/></td>
-    </tr>
-		 <tr>
-      <th style="background-color:#263238; border: 1px solid #37474f; vertical-align:middle" scope="row">3</th>
-      <td>Ressaltat de la sintaxi del codi (syntax highlighting)</td>
-    </tr>
-		 <tr>
-      <th style="background-color:#263238; border: 1px solid #37474f; vertical-align:middle" scope="row">4</th>
-      <td>Possibilitat de autocompletar el codi de forma intel·ligent</td>
-    </tr>
-		<tr>
-      <th style="background-color:#263238; border: 1px solid #37474f; vertical-align:middle" scope="row">5</th>
-      <td>Possibilitat de refactoritzar el codi</td>
+			<td><img src="//azurecomcdn.azureedge.net/cvt-fc5ec00ad7ab7c10ca92aaa41343afdf918aede5a9df860e191b8913d082778e/images/page/services/devops/pipelines/screenshot.jpg"/></td>
     </tr>
   </tbody>
 </table>
