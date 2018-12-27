@@ -5,7 +5,7 @@
 
 
 <p> Visual Studio Code, quan va passar a ser Open-Source, ho va fer sota la llicència **MIT**. Aquesta llicència consisteix en: </p>
-<table>
+<table style="vertical-align:middle;">
 <tr>
 	<th colspan="2" style="border:1px solid #37474f; background: #263238; text-align:center; color:white">Informació llicència MIT</th>
 </tr>
