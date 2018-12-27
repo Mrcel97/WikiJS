@@ -15,8 +15,8 @@ Les eines que integra visual studio code per tal de realitzar un seguiment als e
     <tr>
       <th style="background-color:#263238; border: 1px solid #37474f; " scope="row">1</th>
       <td>Marcar un breakpoint i iniciar el debugger</td>
-			<td><p>Premeu F5 (Depura> Comença a depurar) o el botó Comença a depurar <img src="https://docs.microsoft.com/en-us/visualstudio/debugger/media/dbg-tour-start-debugging.png?view=vs-2017" /> a la barra d'eines Debug, i el depurador s'executa fins al primer punt d'interrupció (breakpoint <img src="" />) que troba i llavors s'atura en aquest i fen ús de les tecles o botons pots avançar amb l'execució, decidint si entres dintre el mètode o no, parar-la, etc. Les opcions que tens a l'hora de debugar es mostren en aquesta imatge:
-<img src="" />
+			<td><p>Premeu F5 (Depura> Comença a depurar) o el botó Comença a depurar <img src="https://docs.microsoft.com/en-us/visualstudio/debugger/media/dbg-tour-start-debugging.png?view=vs-2017" /> a la barra d'eines Debug, i el depurador s'executa fins al primer punt d'interrupció (breakpoint <img src="/uploads/ngjnkdgafjlkfdh.png" />) que troba i llavors s'atura en aquest i fen ús de les tecles o botons pots avançar amb l'execució, decidint si entres dintre el mètode o no, parar-la, etc. Les opcions que tens a l'hora de debugar es mostren en aquesta imatge:
+<img src="/uploads/idsg-8-riuteitoipre.png" />
 			Els punts d'interrupció són una característica útil quan coneixeu la línia de codi o la secció de codi que voleu examinar amb detall.</p></td>
     </tr>
     <tr>
