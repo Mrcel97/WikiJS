@@ -7,3 +7,4 @@
 
 [![Github repository](/uploads/1024-px-octicons-mark-github-svg.png "1024 Px Octicons Mark Github Svg")](https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/estat-actual#repositori!)
 
+![Github 600969](/uploads/github-600969.png "Github 600969")
