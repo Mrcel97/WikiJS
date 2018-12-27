@@ -8,7 +8,7 @@ Les eines que integra visual studio code per tal de realitzar un seguiment als e
   <thead>
     <tr>
 			<th style="background-color:#263238; border: 1px solid #37474f; " scope="col">#</th>
-      <th style="background-color:#263238; border: 1px solid #37474f; " scope="col">Debugging Tools</th>
+      <th style="background-color:#263238; border: 1px solid #37474f; " scope="col" colspan="2">Debugging Tools</th>
     </tr>
   </thead>
   <tbody>
