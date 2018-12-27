@@ -7,16 +7,16 @@
 <p> Visual Studio Code, quan va passar a ser Open-Source, ho va fer sota la llicència **MIT**. Aquesta llicència consisteix en: </p>
 <table>
 <tr>
-	<th>Informació llicència MIT</th>
+	<th colspan="2">Informació llicència MIT</th>
 </tr>
 	<tr>
-		<td>Autor</td>
+		<td colspan="2">Autor</td>
 	</tr>
 	<tr>
-		<td>Edición</td>
+		<td colspan="2">Edición</td>
 	</tr>
 	<tr>
-		<td>Data de creació</td>
+		<td colspan="2">Data de creació</td>
 	</tr>
 	<tr>
 		<td>Compatible amb GPL</td>
