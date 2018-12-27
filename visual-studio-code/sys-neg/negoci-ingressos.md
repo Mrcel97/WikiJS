@@ -19,7 +19,7 @@ Visual Studio Code, al igual que Flutter amb Google, és una estensió del model
 			<td  style="vertical-align:middle; max-width: 4em"><img src="https://d2oc0ihd6a5bt.cloudfront.net/wp-content/uploads/sites/1155/cache/2018/12/ms-partner/3851923819.jpg" width="100"></td>
 			<td style="vertical-align:middle; max-width: 4em"><img style="margin-left: 1em" src="https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/microsoft-512.png" width="100"></td>
 			<td style="vertical-align:middle; max-width: 4em"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_microsoft_store_windows-512.png" width="100"></td>
-			<td style="vertical-align:middle"><img src="https://www.cualit.com/wp-content/uploads/2011/12/android.png" width="100"></td>
+			<td style="vertical-align:middle"><img src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" width="100"></td>
 			<td style="vertical-align:middle"><img src="https://reskytnew.s3.amazonaws.com/221/micgrup-telecomunicacions-sl-gmail-corporativo-239758-med.jpg" width="100"></td>
 			<td style="vertical-align:middle"><img src="https://reskytnew.s3.amazonaws.com/221/micgrup-telecomunicacions-sl-gmail-corporativo-239758-med.jpg" width="100"></td>
 		</tr>
