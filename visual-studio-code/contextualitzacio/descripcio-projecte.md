@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Explicació general del projecte -->
 
 # Descripcio del projecte
-<p>Visual Studio Code és un editor de codi open-source desenvolupat per Microsoft. S'adapta als següents sistemes operatius:</p>
+<p>Visual Studio Code és un editor, lleuger però potent, de codi open-source desenvolupat per Microsoft. S'adapta als següents sistemes operatius:</p>
 <br/>
 <table style="text-align:center; margin:auto;">
   <thead>
@@ -62,6 +62,11 @@
   </tbody>
 </table>
 <br/>
+
+<p> A part de tot el que s'ha especificat anteriorment, visual studio code, ens permet afegir-hi una gran quantitat de extensions per tal adaptar-se millor al llenguatge que estem fent servir, té extensions per a C, C#, Java, Go, Python i PHP entre d'altres. 
+Tot i això, sino tenim cap plugin instal·lat, per defecte, suporta molts llenguatges, entre les quals hi ha Javascript, Node.js i Typescript.
+
+Per altra banda, hem de tenir en compte que avui en dia, es fan servir frameworks per tal de facilitar la feina als desenvolupadors. Quan dic frameworks estic parlant de Angular 2 o superior (TS) , Angular 1 o AngularJS, ReactJS, ExpressJS, Vue.js</p>
 
 
 ### Lloc Web
