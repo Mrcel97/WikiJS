@@ -16,7 +16,7 @@ A més a més del pròpi editor de codi com a tal, Visual Studi Code proposa un 
 	<p>Lloc web: </p>
 	<img style="max-width: 2em" src="https://c.staticblitz.com/assets/icon-664493542621427cc8adae5e8f50d632f87aaa6ea1ce5b01e9a3d05b57940a9f.png">
 </a>
-<a href="https://github.com/stackblitz/core/">
+<a href="https://github.com/stackblitz/core/" style="display: inline; margin-right: 2em">
 	<p>Repositori: </p>
 	<img style="max-width: 2em"  src="https://image.flaticon.com/icons/png/512/25/25231.png">
 </a>
