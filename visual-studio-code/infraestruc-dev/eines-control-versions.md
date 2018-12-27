@@ -7,3 +7,6 @@ Un cop integrat, es pot veure, com en l'exemple següent d'un projecte angular q
 
 
 ![Git Integration Example](/uploads/tomas.png "Git Integration Example")
+
+
+<p> Per altra banda, tenim que els de microsoft quan desenvolupen millores sobre l'IDE visual studio code, fan ús de la tecnologia de github, ja que el codi es obert i per tant, tota la gestió del control de versions es farà allí.</p>
