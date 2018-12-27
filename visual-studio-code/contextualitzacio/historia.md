@@ -16,7 +16,7 @@ A partir, d'aquí s'han anat afegint característiques, extensions (plugins) i c
 -----
 
 
-#### Versió actual Novembre 2018 (1.30)
+																																								#### Versió actual Novembre 2018 (1.30)
 
 
 -----
