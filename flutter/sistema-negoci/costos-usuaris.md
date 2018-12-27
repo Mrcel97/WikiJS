@@ -2,4 +2,4 @@
 
 # Costos usuaris
 
-Flutter és un framework gratuït i sense limitacions en les funcionalitats.
+Flutter és un framework gratuït i sense limitacions en les seves funcionalitats.
