@@ -49,10 +49,6 @@
 	<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Sistema de Negoci</h2></a>
 	<div>
 		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/productes-serveis" 
-					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-				 <h3> Productes i serveis oferits</h3>
-			</a>
 			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/costos-usuaris" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Costos dels usuaris</h3>
