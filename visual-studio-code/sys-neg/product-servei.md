@@ -50,14 +50,4 @@ A més a més del pròpi editor de codi com a tal, Visual Studi Code proposa un 
 	</tr>
 </table>
 
-<a href="https://stackblitz.com/" style="display: inline; margin-right: 2em">
-	<p>Lloc web: </p>
-</a>
-<a href="https://github.com/stackblitz/core/" style="display: inline; margin-right: 2em">
-	<p>Repositori: </p>
-</a>
-* Discord: [link](https://camo.githubusercontent.com/b12a95e20b7ca35f918c0ab5103fe56b6f44c067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e253230646973636f72642d3732383964612e737667)
-* Patreon: [link](https://www.patreon.com/stackblitz)
-
-
 
