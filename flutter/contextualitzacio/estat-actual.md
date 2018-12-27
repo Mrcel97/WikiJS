@@ -4,7 +4,7 @@
 # Estat actual
 
 Actualment Flutter consta de una gran comunitat molt activa. Podem veure aquesta gran activitat al seu repository de github:
-- Consta de 2000 issues obertes
+- Consta aproximadament de 4000 issues obertes
 - Cada setmana es llança una versió nova
 
 A més, flutter esta despertant molta curiositat als desenvolupadors d'aplicacions mòbils els quals també ajuden a millorar el framework desenvolupant nous widgets i exemples del framework.
