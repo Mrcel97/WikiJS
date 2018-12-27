@@ -36,9 +36,7 @@ A més a més del pròpi editor de codi com a tal, Visual Studi Code proposa un 
 		<a style="color: white" href="https://stackblitz.com/">Lloc web</a>
 		</td>
 		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#263238;color:#ffffff;text-align:left;vertical-align:top">
-			<a href="https://github.com/stackblitz/core/" style="display: inline; margin-right: 2em">
-				Repositori:
-			</a>
+			<a href="https://github.com/stackblitz/core/" style="color: white">Repositori</a>
 		</td>
 		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#263238;color:#ffffff;text-align:left;vertical-align:top">Patreon
 		</td>
