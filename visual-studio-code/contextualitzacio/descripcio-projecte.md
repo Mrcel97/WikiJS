@@ -66,8 +66,6 @@
 
 ### Lloc Web
 
-
-<a style="background-color: #80deea" href="https://code.visualstudio.com/"> Visual Studio Code Web Page </a>
-
+[Pàgina web de Visual Studio Code](https://code.visualstudio.com/)
 
 ### Requeriments Funcionals
