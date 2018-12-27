@@ -25,6 +25,6 @@
 </a>
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/sys-neg/llicencia">
 	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Llicències</h2>
+		 cursor: pointer; text-decoration:none;">Llicència</h2>
 	</div>
 </a>
