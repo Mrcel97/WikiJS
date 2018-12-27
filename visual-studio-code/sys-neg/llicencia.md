@@ -10,7 +10,7 @@
 	<th colspan="2" style="border:1px solid #37474f; background: #263238; text-align:center; color:white">Informació llicència MIT</th>
 </tr>
 	<tr>
-		<td>Autor</td>
+		<td style="background-color:#263238; border: 1px solid #37474f; ">Autor</td>
 		<td> Institut Tecnològic de Massachusetts</td>
 	</tr>
 	<tr>
