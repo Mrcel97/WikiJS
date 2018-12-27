@@ -12,3 +12,7 @@ A més, flutter esta despertant molta curiositat als desenvolupadors d'aplicacio
 ## Última versió
 
 Actualment la útima versió estable de flutter és la 1.0, tot i això, de forma automàtica, cada vegada que s'incorpora codi completament funcional a la branca "master" del repository de github es genera una nova versió. A dia d'avui la útima versió és la 1.1.4.
+
+## Github repository
+
+[Flutter repository](https://github.com/flutter/flutter)
