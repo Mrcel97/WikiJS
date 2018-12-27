@@ -74,13 +74,6 @@
 	</div>
 </div>
 
-
-<a href="">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Infraestructura de suport al desenvolupament</h2>
-	</div>
-</a>
-
 <div> <!-- Titol -->
 	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Infraestructura de suport al desenvolupament</h2></a>
 	<div>
