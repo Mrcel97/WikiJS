@@ -10,13 +10,12 @@
 	<th colspan="2">Informació llicència MIT</th>
 </tr>
 	<tr>
-		<td colspan="2">Autor</td>
+		<td>Autor</td>
+		<td> Institut Tecnològic de Massachusetts</td>
 	</tr>
 	<tr>
-		<td colspan="2">Edición</td>
-	</tr>
-	<tr>
-		<td colspan="2">Data de creació</td>
+		<td>Data de creació</td>
+		<td>1988</td>
 	</tr>
 	<tr>
 		<td>Compatible amb GPL</td>
