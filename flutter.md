@@ -75,7 +75,7 @@
 </div>
 
 <div> <!-- Titol -->
-	<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestrucutra-desenvolupament" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Infraestructura de suport al desenvolupament</h2></a>
+	<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestructura-desenvolupament" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Infraestructura de suport al desenvolupament</h2></a>
 	<div>
 		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
 			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestrucutra-desenvolupament/repositori-projecte" 
