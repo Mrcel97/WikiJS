@@ -12,12 +12,6 @@ Flutter es compatible amb codi existent i es utilitzat per desenvolupadors i org
 
 ## Requeriments funcionals
 
-
-
-<div class="row text-center">
-            <div class="homepage__key-point col-lg-4">
-                <div class="homepage__icon"><img alt="Fast development icon" src="/assets/homepage/icon-development-02b120c5632de8bcfebaa9af8d93938c403217b5be8d40d596af576c4ed85aa6.svg" integrity="sha256-ArEgxWMt6Lz+uqmvjZOTjEAyF7W+jUDVlq9XbE7YWqY=" crossorigin="anonymous"></div>
-
                 <h3>Fast Development</h3>
 
                 <p>
@@ -47,5 +41,3 @@ Flutter es compatible amb codi existent i es utilitzat per desenvolupadors i org
                 fonts to provide full native performance on both iOS and Android.
                 </p>
             </div>
-
-        </div>
