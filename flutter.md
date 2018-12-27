@@ -75,27 +75,27 @@
 </div>
 
 <div> <!-- Titol -->
-	<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Infraestructura de suport al desenvolupament</h2></a>
+	<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestrucutra-desenvolupament" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Infraestructura de suport al desenvolupament</h2></a>
 	<div>
 		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/productes-serveis" 
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestrucutra-desenvolupament/repositori-projecte" 
 					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 				 <h3> Repositori del projecte</h3>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/costos-usuaris" 
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestrucutra-desenvolupament/mecanismes-comunicacio" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Mecanismes de comunicació</h3>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/negoci-ingressos" 
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestrucutra-desenvolupament/eines-comunicacio" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Eines de comunicació</h3>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/metode-financament" 
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestrucutra-desenvolupament/eines-control-versions" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Eines de control de versions</h3>
 			</a>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/llicencia" 
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestrucutra-desenvolupament/eines-seguiment-errors" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Eines de seguiment d'errors</h3>
 			</a>
