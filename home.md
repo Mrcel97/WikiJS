@@ -1,6 +1,4 @@
 <!-- TITLE: 1. Home -->
-<!-- SUBTITLE: A quick summary of Home -->
-
 # Eines
 
 <div style="padding: 2em">
