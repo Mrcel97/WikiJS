@@ -13,7 +13,7 @@ Les eines que integra visual studio code per tal de realitzar un seguiment als e
   </thead>
   <tbody>
     <tr>
-      <th style="background-color:#263238; border: 1px solid #37474f; " scope="row">Marcar un breakpoint i iniciar el debugger</th>
+      <th style="background-color:#263238; border: 1px solid #37474f; " scope="row">Debugger intern de visual studio code</th>
 			<td><p>Premeu F5 (Depura> Comença a depurar) o el botó Comença a depurar <img style="width:10px;" src="https://docs.microsoft.com/en-us/visualstudio/debugger/media/dbg-tour-start-debugging.png?view=vs-2017" />	a la barra d'eines Debug, i el depurador s'executa fins al primer punt d'interrupció (breakpoint) que troba.
 			<br/>
 			<img src="/uploads/ngjnkdgafjlkfdh.png" />
