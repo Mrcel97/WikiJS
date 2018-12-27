@@ -5,9 +5,9 @@ Flutter és una estensió del model de negoci de Google.
 
 ## Model negoci Google
 
-<table>
+<table style="margin-left: 3em">
 	<thead>
-		<tr><td colspan="3">Model negoci Google</td></tr>
+		<tr><td style="border: 1px solid #37474f; background-color: #263238, text-alignment: center; color: white" colspan="5">Model negoci Google</td></tr>
 	</thead>
 	<tbody>
 		<tr>
