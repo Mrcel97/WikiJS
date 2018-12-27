@@ -61,10 +61,6 @@
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Model de negoci i font d'ingressos</h3>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/sys-neg/finançament" 
-		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-			 <h3> Mètode de finançament</h3>
-			</a>
 			</a>
 			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/sys-neg/llicencia" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
