@@ -26,3 +26,9 @@ Flutter és una estensió del model de negoci de Google.
 		</tr>
 	</tbody>
 </table>
+
+- **Anuncis**: La publicitat continua sent el focus principal de l'empresa i és la major font d'ingressos aporta. El 2006, l'empresa va obtenir més de 10 mil milions de dòlars en ingressos publicitaris totals, mentre que altres corrents van portar només $ 112 milions. El 2011, el 96 per cent dels ingressos totals provenia de programes i activitats relacionades amb la publicitat.
+- **Serveis**: Google ofereix molts serveis. Per exemple, la majoria de serveis de *sas* de Google tenen un model freemium, és a dir, que per fer un ús simple i poc freqüent són gratis, en canvi, si es desitja fer un ús d'aquets en producció tenen certs costos per als usuaris.
+- **Motor de cerca**: El motor de cerca és el principal negoci de l'empresa i també obté els ingressos més elevats. El motor de cerca va ser el primer motor de cerca als EUA el 2009 i va rebre el 65 per cent de tots els visitants del motor de cerca. El motor de cerca indexa pàgines web per milers de milions per permetre als usuaris accedir a la informació a través d'entrades de paraules clau. La cerca utilitza l'algoritme PageRank de Google per refinar els resultats de la cerca.
+- **Android**: Tots els mètodes de finançament relacionats amb Android: *Play store*, contractes amb marques de fabricació de dispositius mòbils...
+- **Productes**: Certs productes de Google impliquen costos per als usuaris, per exemple, si es vol disposar de més espai d'emmagatzematge a *Google drive* cal pagar una quota.  
