@@ -7,4 +7,9 @@ Visual Studio Code fue anunciado el 29 de abril de 2015 por Microsoft en la conf
 
 El 18 de noviembre de 2015, Visual Studio Code fue lanzado bajo la licencia MIT y su código fuente publicado en GitHub. La capacidad para agregar extensiones fue anunciado.
 
-El 14 de abril de 2016, Visual Studio Code graduó la etapa de vista previa pública y se lanzó a la web
+A partir del gener de 2016, es van anar treien versions noves mensualment, des de la versió 0.10.9 (Gener 2016) fins a l'actual que és la November 2018 (version 1.30).
+Cal destacar, que el 14 d'abril de 2016, Visual Studio Code va graduar la etapa de vista previa pública i es va llençar a la web. Tot i que el llençament realment important, va ser el del mes de Març del 2016, ja que és va llençar la versió 1.0.
+
+A partir, d'aquí s'han anat afegint característiques, extensions (plugins) i corregint errors, fins a arribar a la versió actual (1.30).
+
+#### Versió actual ==> Novembre 2018 (1.30)
