@@ -15,7 +15,7 @@ Aquest projecte esta recolzar per un seguit de motivacions, cada una més tant o
 
 <br>
 
-<table style="border-collapse:collapse;border-spacing:0; margin: auto" class="tg">
+<table style="border-collapse:collapse;border-spacing:0; margin: auto; color:black" class="tg">
 	<tr>
 		<th style="background-color: #263238;border: 1px solid #37474f;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:center;vertical-align:top" colspan="4">Motivacions</th>
 		</tr>
