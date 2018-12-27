@@ -11,18 +11,18 @@ Flutter és una estensió del model de negoci de Google.
 	</thead>
 	<tbody>
 		<tr>
-			<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/245px-Google_Ads_logo.svg.png" width="100"></td>
-			<td><img style="margin-left: 1em" src="https://cloud.google.com/_static/images/cloud/icons/favicons/onecloud/apple-icon.png" width="100"></td>
-			<td><img src="https://www.androidpolice.com/wp-content/uploads/2015/10/nexus2cee_Search-Thumb.png" width="100"></td>
-			<td><img src="https://www.cualit.com/wp-content/uploads/2011/12/android.png" width="100"></td>
-			<td><img src="https://reskytnew.s3.amazonaws.com/221/micgrup-telecomunicacions-sl-gmail-corporativo-239758-med.jpg" width="100"></td>
+			<td  style="vertical-align:middle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/245px-Google_Ads_logo.svg.png" width="100"></td>
+			<td style="vertical-align:middle"><img style="margin-left: 1em" src="https://cloud.google.com/_static/images/cloud/icons/favicons/onecloud/apple-icon.png" width="100"></td>
+			<td style="vertical-align:middle"><img src="https://www.androidpolice.com/wp-content/uploads/2015/10/nexus2cee_Search-Thumb.png" width="100"></td>
+			<td style="vertical-align:middle"><img src="https://www.cualit.com/wp-content/uploads/2011/12/android.png" width="100"></td>
+			<td style="vertical-align:middle"><img src="https://reskytnew.s3.amazonaws.com/221/micgrup-telecomunicacions-sl-gmail-corporativo-239758-med.jpg" width="100"></td>
 		</tr>
 		<tr>
-			<td>Anuncis</td>
-			<td>Serveis</td>
-			<td>Motor de cerca</td>
-			<td>Android</td>
-			<td>Productes</td>
+			<td style="vertical-align:middle; text-align: center">Anuncis</td>
+			<td style="vertical-align:middle; text-align: center">Serveis</td>
+			<td style="vertical-align:middle; text-align: center">Motor de cerca</td>
+			<td style="vertical-align:middle; text-align: center">Android</td>
+			<td style="vertical-align:middle; text-align: center">Productes</td>
 		</tr>
 	</tbody>
 </table>
