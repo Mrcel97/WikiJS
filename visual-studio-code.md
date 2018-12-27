@@ -11,36 +11,39 @@
   background-repeat: no-repeat;
 	background-size: contain">
 </div>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Contextualització</h2>
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">Contextualització</h2></a>
+	<div>
+		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/descripcio-projecte"
+					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+				 <h3>Descripció del projecte</h3>
+			</a>	
+			<ul> <!-- subsub Titols -->
+				<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a> Enginyeria de Requeriments</h4>
+				<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#lloc-web" aria-hidden="true"></a> Lloc web</h4>
+			</ul>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/obj-mot" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3>Objectius i motivacions</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/historia" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Història</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/estat-actual" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Estat Actual</h3>
+			</a>
+			<div>
+				<ul>
+					<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#actual-version" aria-hidden="true"></a> Versió Actual</h4>
+					<h4 id="actual-version"><a class="toc-anchor nc-icon-outline location_bookmark-add internal-link" href="#lloc-web" aria-hidden="true"></a> Repositori</h4>
+				</ul>
+			</div>
+		</ul>
 	</div>
-</a>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/descripcio-projecte">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Descripció del projecte</h2>
-	</div>
-</a>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/obj-mot">
-	<h3 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Objectius i motivacions</h3>
-	</div>
-</a>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/historia">
-	<h3 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Història</h3>
-	</div>
-</a>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/estat-actual">
-	<h3 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Estat Actual</h3>
-	</div>
-</a>
+</div>
 
 <div> <!-- Titol -->
 	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/sys-neg" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Sistema de Negoci</h2></a>
