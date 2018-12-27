@@ -21,6 +21,7 @@ Visual Studio Code, al igual que Flutter amb Google, és una estensió del model
 			<td style="vertical-align:middle"><img src="https://www.androidpolice.com/wp-content/uploads/2015/10/nexus2cee_Search-Thumb.png" width="100"></td>
 			<td style="vertical-align:middle"><img src="https://www.cualit.com/wp-content/uploads/2011/12/android.png" width="100"></td>
 			<td style="vertical-align:middle"><img src="https://reskytnew.s3.amazonaws.com/221/micgrup-telecomunicacions-sl-gmail-corporativo-239758-med.jpg" width="100"></td>
+			<td style="vertical-align:middle"><img src="https://reskytnew.s3.amazonaws.com/221/micgrup-telecomunicacions-sl-gmail-corporativo-239758-med.jpg" width="100"></td>
 		</tr>
 		<tr>
 		<td style="vertical-align:middle; text-align: center"><a style="color: gray" href="https://partner.microsoft.com/es-es/">Microsoft Partners</a></td>
