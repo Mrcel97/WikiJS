@@ -12,4 +12,13 @@ Cal destacar, que el 14 d'abril de 2016, Visual Studio Code va graduar la etapa 
 
 A partir, d'aquí s'han anat afegint característiques, extensions (plugins) i corregint errors, fins a arribar a la versió actual (1.30).
 
-#### Versió actual ==> Novembre 2018 (1.30)
+
+-----
+
+
+#### Versió actual Novembre 2018 (1.30)
+
+
+-----
+
+
