@@ -24,19 +24,19 @@
 	</div>
 </a>
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/obj-mot">
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/obj-mot">
 	<h3 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Objectius i motivacions</h3>
 	</div>
 </a>
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/historia">
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/historia">
 	<h3 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Història</h3>
 	</div>
 </a>
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/estat-actual">
+<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/estat-actual">
 	<h3 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Estat Actual</h3>
 	</div>
