@@ -145,10 +145,26 @@
 	</div>
 </div>
 
-## Curiositats
-### Llenguatge de programació
-### Tamany del equip de desenvolupadors
-### Resultats obtinguts (linies de codi, fitxers, etc)
+
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/flutter/curiositats" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Curiositats</h2></a>
+	<div>
+		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/curiositats/llenguatge-programacio" 
+					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+				 <h3> Llenguatge de programació</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/curiositats/equip-desenvolupadors" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Tamany del equip de desenvolupadors</h3>
+			 </a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/curiositats/resultats" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Resultats obtinguts  (linies de codi, fitxers, etc)</h3>
+			</a>
+		</ul>
+	</div>
+</div>
 
 ## Opinió
 
