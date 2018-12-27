@@ -76,4 +76,32 @@ Per altra banda, hem de tenir en compte que avui en dia, es fan servir framework
 
 ### Requeriments Funcionals
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tr><th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#37474f;background-color:#263238;text-align:center" colspan="2"><span style="color:rgb(255, 255, 255)">Requisits Funcionals</span></th></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Interficie de linia de comandes</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Visual Studio Code ofereix una interfície de linea de comandes integrada dins del editor per facilitar al màxim el desenvolupament en qualsevol Sistema Operatiu <br></td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Enllaç de tecles rapides</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top"><br>El editor de text disposa d'un seguit de combinacions de tecles per dur a terme tasques comunes. A més a més, ofereix la possibilitat de crear-ne nous per extendre la  nostra eficiència.</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Motor de plugins</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top"><br>El propi editor esta obert a la integració de plugins. Aquesta és la forma més ràpida de mantenir activa la comunitat. Els plugins donen lloc a la creativitat<br></td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Suport de llenguatges de progrmació</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top"></td></tr></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<tr>
+		<th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#37474f;background-color:#263238;text-align:center" colspan="2"><span style="color:rgb(255, 255, 255)">Requisits Funcionals</span></th>
+	</tr>
+	<tr>
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Interficie de linia de comandes
+		</td>
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Visual Studio Code ofereix una interfície de linea de comandes integrada dins del editor per facilitar al màxim el desenvolupament en qualsevol Sistema Operatiu <br>
+		</td>
+	</tr>
+	<tr>
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Enllaç de tecles rapides
+		</td>
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top"><br>El editor de text disposa d'un seguit de combinacions de tecles per dur a terme tasques comunes. A més a més, ofereix la possibilitat de crear-ne nous per extendre la  nostra eficiència.
+		</td>
+	</tr>
+	<tr>
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Motor de plugins
+		</td>
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top"><br>El propi editor esta obert a la integració de plugins. Aquesta és la forma més ràpida de mantenir activa la comunitat. Els plugins donen lloc a la creativitat<br>
+		</td>
+	</tr>
+	<tr>
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Suport de llenguatges de progrmació
+		</td>
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">
+		</td>
+	</tr>
+</table>
