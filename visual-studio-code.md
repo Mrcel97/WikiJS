@@ -75,11 +75,40 @@
 </div>
 
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev">
+<a href="">
 	<h2 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Infraestructura de suport al desenvolupament</h2>
 	</div>
 </a>
+
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Infraestructura de suport al desenvolupament</h2></a>
+	<div>
+		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev/repositori" 
+					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+				 <h3> Repositori del projecte</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev/mecanismes-comunicacio" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Mecanismes de comunicació</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev/eines-comunicacio" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Eines de comunicació</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev/eines-control-versions" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Eines de control de versions</h3>
+			</a>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev/eines-seg-errors" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Eines de seguiment d'errors</h3>
+			</a>
+		</ul>
+	</div>
+</div>
 
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj">
 	<h2 style="pointer-events: auto;
