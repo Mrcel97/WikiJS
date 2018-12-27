@@ -13,7 +13,7 @@ A més a més del pròpi editor de codi com a tal, Visual Studi Code proposa un 
 
 * Descripció: StackBlitz és un producte derivat de Visual Studio Code. Utilitza el codi base de l'aplicació d'escriptori feta amb Electron per poporcionar una versió web d'aquesta en Typescript.
 <a href="https://stackblitz.com/">
-	<img src="https://c.staticblitz.com/assets/icon-664493542621427cc8adae5e8f50d632f87aaa6ea1ce5b01e9a3d05b57940a9f.png">
+	<img style="max-width: 2em" src="https://c.staticblitz.com/assets/icon-664493542621427cc8adae5e8f50d632f87aaa6ea1ce5b01e9a3d05b57940a9f.png">
 </a>
 * Lloc web: https://stackblitz.com/
 * Repositori: https://github.com/stackblitz/core/
