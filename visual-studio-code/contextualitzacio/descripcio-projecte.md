@@ -68,7 +68,7 @@
 
 
 
-<a href="https://code.visualstudio.com/" />
+<a href="https://code.visualstudio.com/"> Visual Studio Code Web Page </a>
 
 
 
