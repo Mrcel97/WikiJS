@@ -10,7 +10,7 @@
 
 En la capçalera del README podem observar diverses eines que s'utilitzen en el desenvolupament de Flutter per tal de fer-lo més àgil. Les eines utilitzades són:
 - **Gitter**: Eina de comunicació. [Veure més]()
-- **Cirrus CI**: La integració continua consisteix en la compilació i execució de les proves de tot el projecte. A cada integració es verifica que les proves s'executin correctament, d'aquesta forma es poden detectar errors automàticament. En el cas de Flutter les tasques d'integració s'executen cada  cegada que s'afegeix codi a la branca "master" o si es es fa una *pull request* per comprovar que aquesta sigui vàlida. 
+- **Cirrus CI**: Cirrus CI és una eina d'integració continua. La integració continua consisteix en la compilació i execució de les proves de tot el projecte. A cada integració es verifica que les proves s'executin correctament, d'aquesta forma es poden detectar errors automàticament. En el cas de Flutter les tasques d'integració s'executen cada  cegada que s'afegeix codi a la branca "master" o si es es fa una *pull request* per comprovar que aquesta sigui vàlida. 
 - **Coverage**: Indica el percentage de codi covert per la *test suite* del projecte.
 
 
