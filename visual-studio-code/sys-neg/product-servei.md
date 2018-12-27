@@ -15,7 +15,7 @@ A més a més del pròpi editor de codi com a tal, Visual Studi Code proposa un 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<tr>
-		<th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:left">
+		<th style="background-color: white; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:left">
 		</th>
 		<th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:left;vertical-align:top">
 		</th>
