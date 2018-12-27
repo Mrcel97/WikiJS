@@ -4,7 +4,7 @@
 # Productes i serveis oferits
 
 ## Productes oferits
-A més a més del pròpi editor de codi com a tal, Visual Studi Code proposa un seguit de innoves eines a la seva comunitat:
+A més a més del pròpi editor de codi com a tal, Visual Studio Code proposa un seguit de innoves eines a la seva comunitat:
 
 ### Monaco
 
