@@ -38,11 +38,14 @@ A més a més del pròpi editor de codi com a tal, Visual Studi Code proposa un 
 		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#263238;color:#ffffff;text-align:left;vertical-align:top">
 			<a href="https://github.com/stackblitz/core/" style="color: white">Repositori</a>
 		</td>
-		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#263238;color:#ffffff;text-align:left;vertical-align:top">Patreon
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#263238;color:#ffffff;text-align:left;vertical-align:top">
+			<a href="https://www.patreon.com/stackblitz" style="color: white">Patreon</a>
 		</td>
-		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#263238;color:#ffffff;text-align:left;vertical-align:top">Discord
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#263238;color:#ffffff;text-align:left;vertical-align:top">
+			<a href="https://camo.githubusercontent.com/b12a95e20b7ca35f918c0ab5103fe56b6f44c067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e253230646973636f72642d3732383964612e737667" style="color: white">Discord</a>
 		</td>
-		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#263238;color:#ffffff;text-align:left;vertical-align:top">Documentació
+		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#263238;color:#ffffff;text-align:left;vertical-align:top">
+			<a href="https://stackblitz.com/docsDocumentació" style="color: white">Documentació</a>
 		</td>
 	</tr>
 </table>
