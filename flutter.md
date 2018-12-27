@@ -166,8 +166,11 @@
 	</div>
 </div>
 
-## Opinió
-
-## Comparativa amb altres eines (IDE's) FOSS
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/flutter/opinio" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Opinió</h2></a>
+</div>
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/flutter/comparativa" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Comparativa amb altres eines (IDE's) FOSS</h2></a>
+</div>
 
 
