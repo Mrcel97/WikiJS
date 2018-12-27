@@ -10,4 +10,4 @@ Tenir aquesta configuració facilita la **detecció d'errors**, de forma fàcil 
 
 # Codi obert
 
-El fet que el codi de Flutter sigui visible per a tot el món també facilita la **detecció d'errors**, ja que, com més persones inpeccionin el codi més possiblitats hi ha de trobar *bugs*.
+El fet que el codi de Flutter sigui visible per a tot el món també facilita la **detecció d'errors**, ja que, com més persones inpeccionin el codi, més possiblitats hi ha de trobar *bugs*.
