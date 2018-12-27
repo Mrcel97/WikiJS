@@ -1,4 +1,5 @@
 <!-- TITLE: Costos Usuaris -->
-<!-- SUBTITLE: A quick summary of Costos Usuaris -->
 
-# Header
+# Costos usuaris
+
+Flutter és un framework gratuït i sense limitacions en les funcionalitats.
