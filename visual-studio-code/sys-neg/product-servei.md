@@ -19,12 +19,6 @@ A més a més del pròpi editor de codi com a tal, Visual Studi Code proposa un 
 			<img style="max-width: 2em; margin-left: 1em"  src="https://image.flaticon.com/icons/png/512/25/25231.png">
 		</th>
 		<th style="background-color: white; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:left;vertical-align:top">
-			<img style="max-width: 2em; margin-left: 1em"  src="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Patreon_%28icon%29.png/revision/latest?cb=20161024222125">
-		</th>
-		<th style="background-color: white; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:left;vertical-align:top">
-			<img style="max-width: 2em; margin-left: 0.5em"  src="https://www.freeiconspng.com/uploads/discord-icon-7.png">
-		</th>
-		<th style="background-color: white; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;text-align:left;vertical-align:top">
 			<img style="max-width: 2em; margin-left: 1.5em"  src="https://vignette.wikia.nocookie.net/nationsgame/images/b/b2/Documentation_icon.png/revision/latest?cb=20151129041311">
 		</th>
 	</tr>
