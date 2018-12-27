@@ -42,11 +42,35 @@
 	</div>
 </a>
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/sys-neg">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Sistema de negoci</h2>
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Sistema de Negoci</h2></a>
+	<div>
+		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/productes-serveis" 
+					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+				 <h3> Productes i serveis oferits</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/costos-usuaris" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Costos dels usuaris</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/negoci-ingressos" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Model de negoci i font d'ingressos</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/metode-financament" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Mètode de finançament</h3>
+			</a>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/llicencia" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Llicències</h3>
+			</a>
+		</ul>
 	</div>
-</a>
+</div>
+
 
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev">
 	<h2 style="pointer-events: auto;
