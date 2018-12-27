@@ -12,7 +12,7 @@ Visual Studio Code, al igual que Flutter amb Google, és una estensió del model
 
 <table style="margin-left: 3em;">
 	<thead>
-		<tr><td style="border: 1px solid #37474f; background: #263238; text-align: center; color: black" colspan="6">Model negoci Google</td></tr>
+		<tr><td style="border: 1px solid #37474f; background: #263238; text-align: center; color: white" colspan="6">Model negoci Google</td></tr>
 	</thead>
 	<tbody>
 		<tr>
