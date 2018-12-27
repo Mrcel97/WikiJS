@@ -29,7 +29,7 @@
   </tbody>
 </table>
 <br/>
-<p> Aquest editor, entre moltes altres opcions/funcionalitats, inclou: </p>
+<p> Aquest editor, disposa de moltes opcions/funcionalitats, entre les quals inclou aquestes: </p>
 <br/>
 <table style="text-align:center; margin:auto;">
   <thead>
