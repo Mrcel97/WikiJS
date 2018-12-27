@@ -15,3 +15,5 @@ Actualment la útima versió estable de flutter és la 1.0, tot i això, de form
 ## Github repository
 
 [Flutter repository](https://github.com/flutter/flutter)
+
+[Més informació](https://wiki-js-epl.herokuapp.com/flutter/infraestructura-desenvolupament/repositori-projecte)
