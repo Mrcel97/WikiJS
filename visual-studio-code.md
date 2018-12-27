@@ -103,42 +103,6 @@
 	</div>
 </div>
 
-
------
-
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Tipologia del projecte</h2>
-	</div>
-</a>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Comunitat</h2>
-	</div>
-</a>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/curiositats">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Curiositats</h2>
-	</div>
-</a>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/opinio">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Opinió</h2>
-	</div>
-</a>
-
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comparativa">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Comparativa</h2>
-	</div>
-</a>
-
------
-
 <div> <!-- Titol -->
 	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Tipologia del projecte</h2></a>
 	<div>
