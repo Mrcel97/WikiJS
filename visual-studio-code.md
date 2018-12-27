@@ -103,6 +103,10 @@
 	</div>
 </div>
 
+
+-----
+
+
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj">
 	<h2 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Tipologia del projecte</h2>
@@ -132,6 +136,77 @@
 		 cursor: pointer; text-decoration:none;">Comparativa</h2>
 	</div>
 </a>
+
+-----
+
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Tipologia del projecte</h2></a>
+	<div>
+		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
+			<a href=https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj/project-development-model" 
+					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+				 <h3> Project Development Model</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj/estructura-jerarquica" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Estructuració jeràrquica</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj/resolucio-conflictes" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Resolució de conflictes</h3>
+			</a>
+		</ul>
+	</div>
+</div>
+
+
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Comunitat</h2></a>
+	<div>
+		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tamany" 
+					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+				 <h3> Tamany</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat/estructuracio-social" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Estructuració social</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat/sys-donacio" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Motius i sistema de donació</h3>
+			</a>
+		</ul>
+	</div>
+</div>
+
+
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/curiositats" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Curiositats</h2></a>
+	<div>
+		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/curiositats/prog-lang" 
+					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+				 <h3> Llenguatge de programació</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/curiositats/tamany-dev-team" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Tamany del equip de desenvolupadors</h3>
+			 </a>
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/curiositats/resultats-obtinguts" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Resultats obtinguts  (linies de codi, fitxers, etc)</h3>
+			</a>
+		</ul>
+	</div>
+</div>
+
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/opinio" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Opinió</h2></a>
+</div>
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comparativa" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Comparativa amb altres eines (IDE's) FOSS</h2></a>
+</div>
 
 
 
