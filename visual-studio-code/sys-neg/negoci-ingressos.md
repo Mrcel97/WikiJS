@@ -6,7 +6,7 @@
 <!-- TITLE: Negoci Ingressos -->
 # Model negoci
 
-Flutter és una estensió del model de negoci de Google.
+Visual Studio Code, al igual que Flutter amb Google, és una estensió del model de negoci de Microsoft. Microsoft inverteix capital en Visual Studio Code amb la finalitat de incrementar la seva comunitat i apropar-los a nous productes com ara Azure o plans amb cost econòmic.
 
 ## Model negoci Microsoft
 
