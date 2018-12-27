@@ -1,7 +1,7 @@
 <!-- TITLE: Mecanismes Comunicacio -->
-<!-- SUBTITLE: A quick summary of Mecanismes Comunicacio -->
 
-# Gitter
+![Gitter](/uploads/gitter.png "Gitter")
+# Gitter 
 Flutter utilitza gitter com a eina de comunicació, d'aquesta manera que els seus desenvolupadors poden coneixen en tot moment l'estat del repositori i compartir opinions en el xat.
 
 ## Què és gitter
