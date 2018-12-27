@@ -68,7 +68,7 @@
 			</a>
 			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/sys-neg/llicencia" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-			 <h3> Llicències</h3>
+			 <h3> Llicència</h3>
 			</a>
 		</ul>
 	</div>
