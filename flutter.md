@@ -78,10 +78,6 @@
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Mecanismes de comunicació</h3>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestructura-desenvolupament/eines-comunicacio" 
-		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-			 <h3> Eines de comunicació</h3>
-			</a>
 			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestructura-desenvolupament/eines-control-versions" 
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Eines de control de versions</h3>
