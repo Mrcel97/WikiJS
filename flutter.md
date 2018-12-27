@@ -103,17 +103,26 @@
 	</div>
 </div>
 
-## Infraestructura de suport al desenvolupament
-### Repositori del projete
-### Mecanismes de comunicació
-### Eines de comunicació
-### Eines de control de versions
-### Eines de seguiment d'errors
 
-## Tipologia del projecte
-### Project Development Model
-### Estructuració jeràrquica
-### Resolució de conflictes
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestructura-desenvolupament" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Tipologia del projecte</h2></a>
+	<div>
+		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestructura-desenvolupament/repositori-projecte" 
+					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+				 <h3> Project Development Model</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestructura-desenvolupament/mecanismes-comunicacio" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Estructuració jeràrquica</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/infraestructura-desenvolupament/eines-comunicacio" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Resolució de conflictes</h3>
+			</a>
+		</ul>
+	</div>
+</div>
 
 ## Comunitat
 ### Tamany/Mida
