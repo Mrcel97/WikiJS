@@ -74,6 +74,35 @@
 	</div>
 </div>
 
+<div> <!-- Titol -->
+	<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Infraestructura de suport al desenvolupament</h2></a>
+	<div>
+		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/productes-serveis" 
+					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+				 <h3> Repositori del projecte</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/costos-usuaris" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Mecanismes de comunicació</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/negoci-ingressos" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Eines de comunicació</h3>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/metode-financament" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Eines de control de versions</h3>
+			</a>
+			</a>
+			<a href="https://wiki-js-epl.herokuapp.com/flutter/sistema-negoci/llicencia" 
+		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
+			 <h3> Eines de seguiment d'errors</h3>
+			</a>
+		</ul>
+	</div>
+</div>
+
 ## Infraestructura de suport al desenvolupament
 ### Repositori del projete
 ### Mecanismes de comunicació
