@@ -102,6 +102,20 @@ Per altra banda, hem de tenir en compte que avui en dia, es fan servir framework
 		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">Suport de llenguatges de progrmació
 		</td>
 		<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:top">
+		
+			<table>
+				<tr>
+					<td>
+					HELLO
+					</td>
+				</tr>
+				<tr>
+					<td>
+						HELLO2
+					</td>
+				</tr>
+			</table>
+		
 		</td>
 	</tr>
 </table>
