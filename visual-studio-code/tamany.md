@@ -1,4 +1,4 @@
-<!-- TITLE: Tamany -->
+<!-- TITLE: Tamany de la comunitat -->
 <!-- SUBTITLE: Mida de la comunitat de Visual Studio Code -->
 
-# Tamany
+# Tamany de la comunitat
