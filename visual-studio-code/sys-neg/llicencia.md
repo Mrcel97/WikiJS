@@ -39,4 +39,4 @@
 	</tr>
 </table>
 
-<img style="margin-top:150px; vertical-align:middle;" src="/uploads/njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm.png "/>
+<img style="vertical-align:middle; margin-top:150px; " src="/uploads/njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm.png "/>
