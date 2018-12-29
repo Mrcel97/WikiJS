@@ -12,27 +12,27 @@ Flutter té una comunitat molt gran i activa. A continuació s'exposen les estad
   </thead>
   <tbody>
     <tr>
-			<td style="background-color:#263238; border: 1px solid #37474f; ">Watches</td>
+			<td style="background-color:#263238; border: 1px solid #37474f; color: white ">Watches</td>
 			<td>1.898</td>
     </tr>
 		<tr>
-			<td style="background-color:#263238; border: 1px solid #37474f; ">Issues</td>
+			<td style="background-color:#263238; border: 1px solid #37474f;color: white ">Issues</td>
 			<td>4.072</td>
     </tr>
 		<tr>
-			<td style="background-color:#263238; border: 1px solid #37474f; ">Pull requests</td>
+			<td style="background-color:#263238; border: 1px solid #37474f; color: white">Pull requests</td>
 			<td>154</td>
     </tr>
 		<tr>
-			<td style="background-color:#263238; border: 1px solid #37474f; ">Forks</td>
+			<td style="background-color:#263238; border: 1px solid #37474f;color: white ">Forks</td>
 			<td>4.941</td>
     </tr>
 			<tr>
-			<td style="background-color:#263238; border: 1px solid #37474f; ">Stars</td>
+			<td style="background-color:#263238; border: 1px solid #37474f; color: white">Stars</td>
 			<td>48.094</td>
     </tr>
 		<tr>
-			<td style="background-color:#263238; border: 1px solid #37474f; ">Commits</td>
+			<td style="background-color:#263238; border: 1px solid #37474f; color: white">Commits</td>
 			<td>12.765</td>
     </tr>
   </tbody>
