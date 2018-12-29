@@ -4,7 +4,7 @@
 # Costos dels usuaris
 ## Descripció
 
-El model econòmic de Visual Studio Code es bassa en el codi obert i llicències sense cap cost monetari per als usuaris. Tant és així que aquesta mentalitat s'ha extés als subproductes de Visual Studio Code i altres productes de la branca del desenvolupament de software i els seus respectius subproductes com ara extensions.
+El model econòmic de Visual Studio Code es bassa en el codi obert i llicències sense cap cost monetari per als usuaris. Tant és així que aquesta mentalitat s'ha extés als subproductes de Visual Studio Code i altres productes de la branca del desenvolupament de software i els seus respectius subproductes com ara les extensions.
 
 ## Productes
 <br>
