@@ -43,5 +43,12 @@ Flutter té una comunitat molt gran i activa. A continuació s'exposen les estad
 
 A part de la comunitat de GitHub, flutter té moltes més comunitats actives en altres pàgines web:
 
+<table>
+<tr>
+	<td><img src="" width="100"></td>
+	<td><img src="" width="100"></td>
+	<td><img src="" width="100"></td>
+<tr>
+</table>
 
 # Estructuració social
