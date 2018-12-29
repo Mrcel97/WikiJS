@@ -2,7 +2,6 @@
 <!-- SUBTITLE: Code editing. Redefined. Free. Open source. Runs everywhere. -->
 
 # Visual Studio Code
-<html>
 <div style="
 	background-image: url(https://i.ytimg.com/vi/anvYeA1pWlk/maxresdefault.jpg); 
 	height: 20em; 
@@ -163,6 +162,5 @@
 <div> <!-- Titol -->
 	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comparativa" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Comparativa amb altres eines (IDE's) FOSS</h2></a>
 </div>
-</html>
 
 
