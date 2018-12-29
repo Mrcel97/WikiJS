@@ -2,6 +2,8 @@
 
 ![Gitter](/uploads/gitter.png "Gitter")
 # Gitter 
+[![Join Gitter Chat Channel -](https://badges.gitter.im/flutter/flutter.svg)](https://gitter.im/flutter/flutter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Flutter utilitza gitter com a eina de comunicació, d'aquesta manera que els seus desenvolupadors poden coneixen en tot moment l'estat del repositori i compartir opinions en el xat.
 
 ## Què és gitter
@@ -26,3 +28,5 @@ Deixa que la teva comunitat es descobreixi! Amb Gitter, tothom pot trobar la vos
 
 - **Github**: Per conèixer tota l'activitat del repositori (stars, forks, issues obertes...)
 - **Cirrus CI**: Per conèixer l'estat de la compilació.
+
+
