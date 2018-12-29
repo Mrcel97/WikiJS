@@ -4,7 +4,7 @@
 
 Flutter té una comunitat molt gran i activa. A continuació s'exposen les estadístiques del repository de GitHub on es veu reflexada aquesta activitat:
 
-<table style="text-align:center; margin:auto;">
+<table style="text-align:center; margin:auto; width: 20em">
   <thead>
     <tr>
       <th style="background-color:#263238; border: 1px solid #37474f; " scope="col" colspan="2">Estadístiques GitHub</th>
