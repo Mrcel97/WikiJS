@@ -11,5 +11,5 @@ Llavors, comença una nova iteració en el model àgil ([!Metodologies Agils](ht
 
 
 <html>
-	<img style="margin-left:500px; margin-top:50px;" src="/uploads/agilenewera-1.png" />
+	<img style="margin-left:500px; margin-top:50px;" src="https://atlassianblog.wpengine.com/wp-content/uploads/buildingagileteams.png" />
 </html>
