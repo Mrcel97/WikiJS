@@ -39,4 +39,4 @@
 	</tr>
 </table>
 
-<img style="margin:auto;" src="/uploads/njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm.png "Njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm"/>
+<a><img style="margin:auto;" src="/uploads/njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm.png "Njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm"/></a>
