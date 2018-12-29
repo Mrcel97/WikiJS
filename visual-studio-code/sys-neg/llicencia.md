@@ -40,4 +40,4 @@
 </table>
 
 
-![MIT License](/uploads/captura.png "Captura")
+![MIT LICENSE](/uploads/njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm.png "Njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm")
