@@ -3,18 +3,8 @@
 
 # Comunitat
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat/tamany">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;"> Tamany/Mida</h2>
-	</div>
-</a>
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat/sys-donacio">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Motius/Signifcat del sistema de donació</h2>
-	</div>
-</a>
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat/estructuracio-social">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Estructuració social</h2>
-	</div>
-</a>
+## Inicis
+
+La comunitat de Visual Studio Code es troba lligada a la història d'aquest editor de codi. La història comença a escriure's a partir del 29 de abril de 2015, un cop Visual Studio Code es anunciat per Microsoft en la conferència Build. Com a tot producte tecnlògic, un cop anunciat ja va començar a despertar l'interès dels primers afilitas.
+
+## Estructura social 
