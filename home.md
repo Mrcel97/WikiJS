@@ -1,7 +1,7 @@
 <!-- TITLE: 1. Home -->
 # Eines
 
-<div style=" width: 100%">
+
 	<div style="width: 45%; display: inline">
 		<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code"><img width="300" alt="VIsual Studio Code" src="https://mospaw.com/wp-content/uploads/2018/07/Visual_Studio_code_logo-274x300.png"></a> 
 		<p style="font-size: 3em; text-align: center; width: 45%">Visual Studio Code</p>
@@ -11,7 +11,6 @@
 		<p style="font-size: 3em; text-align: center; width: 45%">Flutter</p>
 	</div>
 
-</div>
 
  <table style="margin: auto; border: none !important">
 
