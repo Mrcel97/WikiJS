@@ -1,4 +1,5 @@
 <!-- TITLE: Estructura Jerarquica -->
-<!-- SUBTITLE: A quick summary of Estructura Jerarquica -->
 
-# Header
+# Estructura Jeràrquica
+
+![Jerarquia Flutter](/uploads/jerarquia-flutter.png "Jerarquia Flutter")
