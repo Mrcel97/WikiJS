@@ -117,22 +117,6 @@
 
 <div> <!-- Titol -->
 	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Comunitat</h2></a>
-	<div>
-		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
-			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tamany" 
-					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-				 <h3> Tamany</h3>
-			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat/estructuracio-social" 
-		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-			 <h3> Estructuració social</h3>
-			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/comunitat/sys-donacio" 
-		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-			 <h3> Motius i sistema de donació</h3>
-			</a>
-		</ul>
-	</div>
 </div>
 
 
