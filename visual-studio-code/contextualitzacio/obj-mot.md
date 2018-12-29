@@ -3,7 +3,7 @@
 
 # Objectius i Motivacions
 
-<img style="margin: auto; max-height: 20em; min-width: 100%" src="https://66.media.tumblr.com/tumblr_l2i0q5lYH61qbkusho1_1280.jpg">
+<img style="margin: auto; max-height: 20em; min-width: 100%" src="https://cdn-images-1.medium.com/max/2000/1*X64AU60quzkkR-Gi0mk7Gg.png">
 
 ## Objectius
 L'objectiu que impulsa aquesta idea de projecte hostatjat en format wiki radica en el nostre dia a dia com a programadors i la nostra eina essencial, els editors de codi o IDEs. Actualment en el mercat existeixen una àmplia varietat d'opcions. Des dels editors més simples com ara SublimeText o TextMate fins a eines prometedores com Atom o la nostra elecció.
