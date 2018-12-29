@@ -39,7 +39,4 @@
 	</tr>
 </table>
 
-
-
-
-![MIT LICENSE](/uploads/njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm.png "Njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm")
+<img style="margin:auto;" src="/uploads/njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm.png "Njklsdfghjkolnadghnhjkldsfhuiglqwetsefgbnm"/>
