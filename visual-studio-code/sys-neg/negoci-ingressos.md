@@ -36,9 +36,15 @@ Visual Studio Code, al igual que Flutter amb Google, és una estensió del model
 
 <br>
 
+
 - **Microsoft Partners**: Es una empresa que proporciona productos o servicios relacionados con Microsoft, o soporte para tales. Microsoft confirma que son oficiales y que funcionan de manera eficaz, y ayudan a los clientes con una variedad de proyectos de tecnología de la información (TI) y productos y servicios específicos. Si bien no está acreditado para brindar soporte al mismo nivel que un Microsoft Gold Certified Partner para servicios de soporte, muchos MCP ofrecen soporte como parte de sus servicios.
+
 - **Activititats Principals**: Estan formades per el desenvolupament de software i les actitats de marketing i vendes. D'aquest apartat nèixen actualitzacions pels productes de Microssoft o inclús nous productes per entrar en el mercat.
+
 - **Recursos Principals**: Conformat per una gran base de dades incrustada, usuaris amb comptes de Microsoft i IPs. Tots junts conformen una font d'ingressos estable per a la compañia bassada en la comunitat.
+
 - **Productes sota llicència**: Paquets formats pels productes que s'alliberen als usuaris sota llicències privatives. Dins d'aquest paquets el més destacable és Office tot i que noves integracions i productes adquirits per Microsoft també s'adapten o s'utilitzen per incrementar el valor d'aquests productes ja existents o crear-ne de nous.
+
 - **Relacions amb els clients**: Microsoft com a empresa també crea solucions tecnològiques per als seus clients. Aquests clients tansols formen part del T50 (Top de les 50 empreses més poderos del món).
+
 - **Canals de comunicació**: Conformat per la seva web, canals de venda o suport, minoristes i OEM (Original Equipment Manufacturer).
