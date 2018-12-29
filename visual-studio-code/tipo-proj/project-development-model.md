@@ -14,3 +14,7 @@ Aquest, com ja he dit en altres apartats, garanteix que tot commit o canvi reali
 
 El azure pipeline de l'últim canvi realitzat i acceptat el podem veure en la següent imatge:
 
+![Asdfghjkln 654658](/uploads/asdfghjkln-654658.png "Asdfghjkln 654658")
+
+
+Podem concloure que fent ús de les metodologies àgils i del azure pipeline per garantir el funcionament correcte i adequat de tots els canvis, seria la forma més correcta de definir el model emprat en el desenvolupament d'aquest projecte.
