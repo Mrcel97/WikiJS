@@ -6,7 +6,7 @@
 
 Visual Studio Code utilitza gitter com a eina de comunicació, d'aquesta manera que els seus desenvolupadors poden coneixen en tot moment l'estat del repositori i compartir opinions en el xat.
 
-## Què és gitter
+## Què és gitter?
 
 Gitter és una plataforma de xat i xarxes que ajuda a gestionar, créixer i connectar comunitats mitjançant missatgeria, contingut i descobriment.
 
