@@ -6,7 +6,7 @@ L'eina que utilitzen els desenvolupadors de Flutter per al control de versions d
 
 ## Git
 
-![1280 Px Git Logo Svg](/uploads/1280-px-git-logo-svg.png "1280 Px Git Logo Svg")
+<img src="/uploads/1280-px-git-logo-svg.png" width="200">
 
 Git  és un sistema de control de versions per coordinar el treball, de desenvolupament d'un projecte software, entre diverses persones. S'utilitza principalment per a la gestió del codi font en el desenvolupament de programari , però es pot utilitzar per fer un seguiment dels canvis en qualsevol conjunt d'arxius.
 
