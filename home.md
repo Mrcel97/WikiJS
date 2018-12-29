@@ -3,7 +3,7 @@
 
 <div>
 	<div style="float: left; box-shadow: 5px 10px 18px #888888; border-radius: 10px; margin: 2em; height: 30em; width: 25em">
-		<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code"><img width="250" alt="VIsual Studio Code" src="https://mospaw.com/wp-content/uploads/2018/07/Visual_Studio_code_logo-274x300.png"></a> 
+		<a style="margin: auto" href="https://wiki-js-epl.herokuapp.com/visual-studio-code"><img width="250" alt="VIsual Studio Code" src="https://mospaw.com/wp-content/uploads/2018/07/Visual_Studio_code_logo-274x300.png"></a> 
 		<p style="font-size: 3em; text-align: center">Visual Studio Code</p>
 	</div>
 	<div style="float: left; box-shadow: 5px 10px 18px #888888; border-radius: 10px;  margin: 2em; height: 30em; width: 25em">
