@@ -10,4 +10,6 @@ Llavors, comença una nova iteració en el model àgil ([!Metodologies Agils](ht
 > Imatge del desenvolupament àgil, on es veu clarament que hi ha una fase de reparació de errors o revisió i extracció de nous requeriments en base a les noves demandes del client i els errors apareguts que vindria a ser un fet similar.
 
 
-![Agilenewera 1](/uploads/agilenewera-1.png "Agilenewera 1")
+<html>
+	<img style="margin-left:500px; margin-top:50px;" src="/uploads/agilenewera-1.png" />
+</html>
