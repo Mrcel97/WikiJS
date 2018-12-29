@@ -99,7 +99,7 @@
 	<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Tipologia del projecte</h2></a>
 	<div>
 		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
-			<a href=https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj/project-development-model" 
+			<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/tipo-proj/project-development-model" 
 					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 				 <h3> Project Development Model</h3>
 			</a>
