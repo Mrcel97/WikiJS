@@ -61,4 +61,3 @@ A part de la comunitat de GitHub, flutter té moltes més comunitats actives en 
 <tr>
 </table>
 
-# Estructuració social
