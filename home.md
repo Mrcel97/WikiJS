@@ -1,7 +1,15 @@
 <!-- TITLE: 1. Home -->
 # Eines
 
-<div style="padding: 2em">
+<div style="padding: 2em; width: 100%">
+	<div style="width: 45%">
+		<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code"><img width="300" alt="VIsual Studio Code" src="https://mospaw.com/wp-content/uploads/2018/07/Visual_Studio_code_logo-274x300.png"></a> 
+	</div>
+		<div style="width: 45%">
+		<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code"><img width="300" alt="VIsual Studio Code" src="https://mospaw.com/wp-content/uploads/2018/07/Visual_Studio_code_logo-274x300.png"></a> 
+	</div>
+</div>
+	
  <table style="margin: auto; border: none !important">
 
   <tr style="border: none !important">
