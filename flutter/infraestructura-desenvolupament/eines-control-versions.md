@@ -15,3 +15,7 @@ Git va ser creat per Linus Torvalds el 2005 per al desenvolupament del kernel de
 Igual que amb la majoria dels altres sistemes de control de versions distribuïts i, a diferència de la majoria dels sistemes client-servidors, cada directori Git a cada ordinador és un repositori de gran abast amb historial complet i habilitats completes de rastreig de versions, independentment de l'accés a la xarxa o un servidor central. 
 
 Git és un programari lliure i de codi obert distribuït sota els termes de la versió 2 de la llicència pública general de GNU.
+
+## Github
+
+<img src="/uploads/1024-px-octicons-mark-github-svg.png" style="margin-top: 2em" width="200">
