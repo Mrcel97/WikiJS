@@ -7,7 +7,7 @@ Fan ús de metodologies àgils per tal de dur a terme el desenvolupament del pro
 > Un exemple de com es treballa fent ús de metodologies àgils, es descriu en aquesta imatge:
 
 <html>
-  <img style="margin-left:500px; margin-top:50px;" src="/uploads/agile-software-development.png" />
+  <img style="margin-left:750px; margin-top:50px;" src="/uploads/agile-software-development.png" />
 </html>
 
 Per tal de comprovar que tot segueixi funcionant, abans d'afegir res nou a la branca principal de desenvolupament, és fa ús del azure pipeline.  
