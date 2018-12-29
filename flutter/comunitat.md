@@ -57,7 +57,7 @@ A part de la comunitat de GitHub, flutter té moltes més comunitats actives en 
 <tr>
 	<td style="padding: 1em"><a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr"><img src="https://flutter.io/assets/community/logo-twitter-02bc8cf888815bfefa4345008aaeb18bfe2e9205a56b09d34d04f132b57c133d.png" width="100"></a></td>
 	<td style="padding: 1em"><a href="https://www.reddit.com/r/FlutterDev/"><img src="https://flutter.io/assets/community/logo-reddit-dd08d8bfd6972121324685e712445978118d1ce9221c53ab8c51a7dc4d455673.png" width="100"></a></td>
-	<td style="padding: 1em"><a href="https://discord.gg/N7Yshp4"><img src="https://flutter.io/assets/community/logo-discord-43c1f18f64fd0b7926ff6253d22db75534869997df6d063d43fff771f21cb9c8.png" width="100"></a></td>
+	<td style="padding: 1em"><a href="https://discord.gg/N7Yshp4"><img src="https://flutter.io/assets/community/logo-discord-43c1f18f64fd0b7926ff6253d22db75534869997df6d063d43fff771f21cb9c8.png" width="200"></a></td>
 <tr>
 </table>
 
