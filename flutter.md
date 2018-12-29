@@ -115,22 +115,6 @@
 
 <div> <!-- Titol -->
 	<a href="https://wiki-js-epl.herokuapp.com/flutter/comunitat" ><h2 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;"> Comunitat</h2></a>
-	<div>
-		<ul style="margin-top: -1.5em !important"> <!-- sub Titols -->
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/comunitat/tamany" 
-					 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-				 <h3> Tamany</h3>
-			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/comunitat/estructura-social" 
-		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-			 <h3> Estructuració social</h3>
-			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/comunitat/motius-donacio" 
-		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-			 <h3> Motius i sistema de donació</h3>
-			</a>
-		</ul>
-	</div>
 </div>
 
 
