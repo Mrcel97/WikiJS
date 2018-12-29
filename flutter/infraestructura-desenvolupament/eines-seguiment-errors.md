@@ -15,4 +15,4 @@ A continuació es mostra una captura de l'eina Cirrus CI amb les últimes compil
 El fet que el codi de Flutter sigui visible per a tot el món també facilita la **detecció d'errors**, ja que, com més persones inpeccionin el codi, més possiblitats hi ha de trobar *bugs*.
 
 
-<img src="http://i.stack.imgur.com/SBv4T.gif" title="this slowpoke moves" /
+<img src="http://i.stack.imgur.com/SBv4T.gif" title="this slowpoke moves" />
