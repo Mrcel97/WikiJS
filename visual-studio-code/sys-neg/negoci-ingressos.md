@@ -9,7 +9,7 @@
 Visual Studio Code, al igual que Flutter amb Google, és una estensió del model de negoci de Microsoft. Microsoft inverteix capital en Visual Studio Code amb la finalitat de incrementar la seva comunitat i apropar-los a nous productes com ara Azure o plans amb cost econòmic.
 
 ## Model negoci Microsoft
-
+<br>
 <table style="margin: auto;">
 	<thead>
 		<tr><td style="border: 1px solid #37474f; background: #263238; text-align: center; color: white" colspan="6">Model negoci Microsoft</td></tr>
