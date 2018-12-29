@@ -1,4 +1,4 @@
 <!-- TITLE: Tamany -->
-<!-- SUBTITLE: A quick summary of Tamany -->
+<!-- SUBTITLE: Mida de la comunitat de Visual Studio Code -->
 
 # Tamany
