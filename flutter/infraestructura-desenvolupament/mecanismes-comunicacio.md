@@ -29,4 +29,5 @@ Deixa que la teva comunitat es descobreixi! Amb Gitter, tothom pot trobar la vos
 - **Github**: Per conèixer tota l'activitat del repositori (stars, forks, issues obertes...)
 - **Cirrus CI**: Per conèixer l'estat de la compilació.
 
+![Gitter Flutter](/uploads/gitter-flutter.png "Gitter Flutter")
 
