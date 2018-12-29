@@ -6,4 +6,11 @@ Fan ús de metodologies àgils per tal de dur a terme el desenvolupament del pro
 
 Un exemple de com es treballa fent ús de metodologies àgils, es descriu en aquesta imatge:
 
-![Metodologias Agiles 904 X 452](/uploads/metodologias-agiles-904-x-452.jpg "Metodologias Agiles 904 X 452")
+![Agile Software Development](/uploads/agile-software-development.png "Agile Software Development")
+
+
+Per tal de comprovar que tot segueixi funcionant, abans d'afegir res nou a la branca principal de desenvolupament, és fa ús del azure pipeline.  
+Aquest, com ja he dit en altres apartats, garanteix que tot commit o canvi realitzat no pugi/passi a la branca principal sense haver passat totes les bateries de testos corresponents, les quals es passen de forma automàtica gràcies a l'azure pipeline. 
+
+El azure pipeline de l'últim canvi realitzat i acceptat el podem veure en la següent imatge:
+
