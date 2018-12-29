@@ -18,4 +18,10 @@ Git és un programari lliure i de codi obert distribuït sota els termes de la v
 
 ## Github
 
-<img src="/uploads/1024-px-octicons-mark-github-svg.png" style="margin-top: 2em" width="200">
+<img src="/uploads/1024-px-octicons-mark-github-svg.png" style="margin-top: 2em" width="150">
+
+GitHub Inc. és un servei d'allotjament web basat en web per al control de versions que utilitza Git. Ofereix tota la funcionalitat de control de versions distribuïdes i codi font (SCM) de Git, a més d'afegir funcions pròpies. Proporciona control d'accés i diverses funcionalitats de col·laboració, com ara el seguiment d'errors (com s'ha explicat en l'apartat [Seguiment d'errors](https://wiki-js-epl.herokuapp.com/flutter/infraestructura-desenvolupament/eines-seguiment-errors)), les *pull requests*, la gestió de tasques i els wikis per a cada projecte.
+
+GitHub ofereix plans per a repositoris privats i comptes gratuïts que s'utilitzen habitualment per allotjar projectes de programari de codi obert. A partir de juny de 2018, GitHub informa que té més de 28 milions d'usuaris i 57 milions de repositoris (incloent 28 milions de repositoris públics), convertint-lo en el major proveïdor de codi font del món.
+
+Actualment GitHub pertany a Microsoft.
