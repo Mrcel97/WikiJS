@@ -12,11 +12,6 @@
 		 cursor: pointer; text-decoration:none;">Mecanismes de comunicació</h2>
 	</div>
 </a>
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev/eines-comunicacio">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Eines de comunicació</h2>
-	</div>
-</a>
 <a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/infraestruc-dev/eines-control-versions">
 	<h2 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Eines de control de versions</h2>
