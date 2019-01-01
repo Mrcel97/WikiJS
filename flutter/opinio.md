@@ -1,4 +1,4 @@
-<!-- TITLE: Opinio -->
-<!-- SUBTITLE: A quick summary of Opinio -->
+<!-- TITLE: Opinió -->
+<!-- SUBTITLE: Opinió -->
 
-# Header
+# Opinió
