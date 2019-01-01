@@ -104,10 +104,6 @@
 		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
 			 <h3> Estructuració jeràrquica</h3>
 			</a>
-			<a href="https://wiki-js-epl.herokuapp.com/flutter/tipologia-producte/resolucio-conflictes" 
-		 style="pointer-events: auto; cursor: pointer; text-decoration : none; color : #000000;">
-			 <h3> Resolució de conflictes</h3>
-			</a>
 		</ul>
 	</div>
 </div>
