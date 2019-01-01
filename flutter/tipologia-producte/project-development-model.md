@@ -1,5 +1,5 @@
-<!-- TITLE: Project Development Model -->
-<!-- SUBTITLE: A quick summary of Project Development Model -->
+<!-- TITLE: Model de desenvolupament -->
+<!-- SUBTITLE: Model de desenvolupament -->
 
 # Model de desenvolupament
 
