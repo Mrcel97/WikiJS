@@ -1,4 +1,4 @@
-,<!-- TITLE: Opinió -->
+<!-- TITLE: Opinió -->
 <!-- SUBTITLE: Opinió -->
 # Opinió
 
