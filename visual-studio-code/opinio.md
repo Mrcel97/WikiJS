@@ -1,18 +1,5 @@
 ,<!-- TITLE: Opinió -->
 <!-- SUBTITLE: Opinió -->
-
-En referència a
-referent a
-En relació a
-en relació amb
-pel que fa a
-per esguard de
-(per)tocant a
-quant a
-sobre
-respecte a/de
-per a començar
-
 # Opinió
 
 Primer que tot, agraïr a Microsoft per la creació d'aquest IDE i per fer-lo Open-Source, ja que és el que nosaltres utilitzem amb més freqüència.
@@ -30,4 +17,7 @@ En relació a la llicència MIT asignada al projecte Visual Studio Code, opinem 
 Fent aquest treball , vam descobrir el ![Azure Pipeline](https://dev.azure.com/vscode/VSCode/_build/results?buildId=12404) i un dels seus usos és, tal i com podeu veure en l'enllaç anterior, com a lloc on hi ha la bateria de testos de tot el projecte per a validar cada commit i/o pull request que vulgui passar a la branca principal des d'una altra branca. També enfatitzar que serveix com a mètode de detecció de conflictes.
 
 En definitiva, el projecte de Visual Studio Code té una comunitat molt extensa i una organitazació i equip de desnevolupadors encarregats de fer les millores per a les actualitzacions i/o les reparacions dels errors trobats, dit d'una altra forma, és un bon IDE i si vols, pots veure com l'han fet perquè és un projecte Open-Source(O.S.). 
-Segons la nostra experiència fent ús d'aquest IDE, hem pogut apreciar que per a llenguatges com Java, encara no li dóna un bon suport, tot i que els plugins ho arreglen una mica, no acaba d'integrar-se bé amb l
+Segons la nostra experiència fent ús d'aquest IDE, hem pogut apreciar que per a llenguatges com Java, encara no li dóna un bon suport, tot i que els plugins ho arreglen una mica, l'IDE no acaba d'integrar-se bé amb Java.
+
+
+Per acabar, nosaltres, com a desenvolupadors i persones que han fet ús d'aquest IDE, recomanem l'ús d'aquest IDE excepte per a Java i/o frameworks de Java, com per exemple Spring a causa de, com ja he comentat abans, la nostra experiència d'ús de l'eina. Cal dir que el considerem un IDE fàcil de fer servir i, si més no, fàcil d'aprendre a utilitzar-lo, és a dir, intuïtiu a l'hora de què un desenvolupador en faci ús (developer-friendly).
