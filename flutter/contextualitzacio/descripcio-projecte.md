@@ -1,5 +1,4 @@
 <!-- TITLE: Descripcio Projecte -->
-<!-- SUBTITLE: A quick summary of Descripcio Projecte -->
 
 # Descripció del projecte
 Flutter és un SDK(*Software Development Kit*) per a desenvolupar aplicacions mòbils d'alta qualitat amb interfícies natives, tant per a iOS i Android, amb un temps rècord.
