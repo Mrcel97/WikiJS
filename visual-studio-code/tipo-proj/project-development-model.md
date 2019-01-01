@@ -10,8 +10,8 @@ Fan ús de metodologies àgils per tal de dur a terme el desenvolupament del pro
   <img style="display: block; margin: auto; margin-top:50px;" src="/uploads/agile-software-development.png" />
 </html>
 
-Per tal de comprovar que tot segueixi funcionant, abans d'afegir res nou a la branca principal de desenvolupament, és fa ús del azure pipeline.  
-Aquest, com ja he dit en altres apartats, garanteix que tot commit o canvi realitzat no pugi/passi a la branca principal sense haver passat totes les bateries de testos corresponents, les quals es passen de forma automàtica gràcies a l'azure pipeline. 
+Per tal de comprovar que tot segueixi funcionant, abans d'afegir res nou a la branca principal de desenvolupament, es fa ús del azure pipeline.
+Aquest, com ja he dit en altres apartats, garanteix que tot commit o canvi realitzat no pugi/passi a la branca principal sense haver passat totes les bateries de testos corresponents, les quals es passen de forma automàtica gràcies a l'azure pipeline.
 
 > El azure pipeline de l'últim canvi realitzat i acceptat el podem veure en la següent imatge:
 
