@@ -20,3 +20,10 @@ En la pàgina web de Flutter els desenvlupadors han publicat unes *slides* en le
 A continuació és mostra un dels esquemes que mostren la gran escalabilitat i senzillesa del framework.
 
 ![Arch Flutter](/uploads/arch-flutter.png "Arch Flutter")
+
+# Fuchsia
+Fuchsia és un nou sistema operatiu de codi obert que actualment està desenvolupant Google. A diferència d'Android i altres sistemes operatius populars que es basen en Linux, Fuchisa es basa en un nou micronúcleo anomenat "Zircon". Actualment s'està utilitzan Flutter per a desenvolupar aquest sistema operatiu.
+Alguns experts asseguren que en el futur Fuchsia substituira a Android.
+
+# History of everything
+Google posa a la nostra disposició una aplicació que demostra tot el potencial de Flutter. Aquésta aplicació s'anomena History of Everythin i està tant disponible per [android](https://play.google.com/store/apps/details?id=com.twodimensions.timeline&rdid=com.twodimensions.timeline) com per [iOS](https://itunes.apple.com/us/app/the-history-of-everything/id1441257460).
