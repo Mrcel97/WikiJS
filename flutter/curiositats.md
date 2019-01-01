@@ -17,6 +17,6 @@ Flutter utilitza quatre dimensions per avaluar i considerar les necessitats dels
 
 # Arquitectura Flutter
 En la pàgina web de Flutter els desenvlupadors han publicat unes *slides* en les quals és pot veure l'aqruitectura de sistema de Flutter. 
-A continuació és mostra un dels esquemes que mostren la gran escalabilitat del framework.
+A continuació és mostra un dels esquemes que mostren la gran escalabilitat i senzillesa del framework.
 
 ![Arch Flutter](/uploads/arch-flutter.png "Arch Flutter")
