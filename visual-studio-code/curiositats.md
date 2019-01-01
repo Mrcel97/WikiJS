@@ -3,20 +3,15 @@
 
 # Curiositats
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/curiositats/prog-lang">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Llenguatge de programació</h2>
-	</div>
-</a>
+## Llenguatge de programació
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/curiositats/tamany-dev-team">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Tamany del equip de desenvolupadors</h2>
-	</div>
-</a>
+Visual Studio Code està desenvolupat amb el framework *ElectronJS*.
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code//curiositats/resultats-obtinguts">
-	<h2 style="pointer-events: auto;
-		 cursor: pointer; text-decoration:none;">Resultats obtinguts</h2>
-	</div>
-</a>
+### Qué és ElectronJS?
+
+És un framework per a crear aplicacions multiplataforma d'espcriptori amb tecnologies web com JavaScript, CSS i HTML.
+
+
+## Recursivitat
+
+Els desenvolupadors de Visual Studio Code utilitzen el su propi IDE per a seguir millorant-lo.
