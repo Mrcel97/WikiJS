@@ -4,11 +4,12 @@
 # Productes i serveis oferits
 
 ## Productes oferits
-A més a més del pròpi editor de codi com a tal, Visual Studio Code proposa un seguit de innoves eines a la seva comunitat:
+
+A més a més del propi editor de codi com a tal, Visual Studio Code proposa un seguit de innoves eines a la seva comunitat:
 
 ### Monaco
 
-* Monaco va ser la versió preliminar a partir de la qual va nèixer Visual Studio Code. Es troba llicenciat sota la Llicència MIT i és compatible amb IE 11, Edge, Chrome, Firefox, Safari i Opera. L'editor de Mònaco no és compatible amb els navegadors mòbils o els marcs web mòbils.
+* Monaco va ser la versió preliminar a partir de la qual va néixer Visual Studio Code. Es troba llicenciat sota la Llicència MIT i és compatible amb IE 11, Edge, Chrome, Firefox, Safari i Opera. L'editor de Mònaco no és compatible amb els navegadors mòbils o els marcs web mòbils.
 
 <table style="border-collapse:collapse;border-spacing:0; margin:auto" class="tg">
 	<tr>
