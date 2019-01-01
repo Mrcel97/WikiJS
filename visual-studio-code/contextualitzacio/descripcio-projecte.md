@@ -62,12 +62,13 @@
   </tbody>
 </table>
 <br/>
-<p>VS Code s'actualitza mensualment amb noves funcions i correccions d'errors. Cal esmentar que es poden dur a terme les actualitzacions a l'última versió des del mateix IDE, aquest et notificarà cada cop que l'obris (sinó ho desactives) que hi ha una nova versió i que hauries d'actualitzar-lo per tal d'obtenir les últimes característiques i correccions d'errors introduïdes.</p>
 
-<p> A part de tot el que s'ha especificat anteriorment, visual studio code, ens permet afegir-hi una gran quantitat d'extensions per tal adaptar-se millor al llenguatge que estem fent servir, té extensions per a C, C#, Java, Go, Python i PHP entre d'altres.
-Tot i això, sinó tenim cap plugin instal·lat, per defecte, suporta molts llenguatges, entre les quals hi ha Javascript, Node.js i Typescript.
+VS Code s'actualitza mensualment amb noves funcions i correccions d'errors. Cal esmentar que es poden dur a terme les actualitzacions a l'última versió des del mateix IDE, aquest et notificarà cada cop que l'obris (si no ho desactives) que hi ha una nova versió i que hauries d'actualitzar-lo per tal d'obtenir les últimes característiques i correccions d'errors introduïts.
 
-Per altra banda, hem de tenir en compte que avui en dia, es fan servir frameworks per a facilitar la feina als desenvolupadors. Quan dic frameworks estic parlant d'Angular 2 o superior (TS), Angular 1 o AngularJS, ReactJS, ExpressJS, Vue.js.</p>
+A part de tot el que s'ha especificat anteriorment, visual studio code, ens permet afegir-hi una gran quantitat d'extensions per tal adaptar-se millor al llenguatge que estem fent servir, té extensions per a C, C#, Java, Go, Python i PHP entre d'altres.
+Tot i això, si no tenim cap plugin instal·lat, per defecte, suporta molts llenguatges, entre les quals hi ha Javascript, Node.js i Typescript.
+
+Per altra banda, hem de tenir en compte que avui en dia, es fan servir frameworks per a facilitar la feina als desenvolupadors. Quan dic frameworks estic parlant d'Angular 2 o superior (TS), Angular 1 o AngularJS, ReactJS, ExpressJS, Vue.js.
 
 
 ### Lloc Web
