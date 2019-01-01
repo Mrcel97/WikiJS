@@ -1,4 +1,4 @@
-<!-- TITLE: Llenguatge de programació -->
+<!-- TITLE: Curiositats -->
 # Llenguatge de programació
 Flutter és diferent de la majoria d'altres opcions per crear aplicacions mòbil, això es degut a que Flutter no utilitza ni *WebViews* ni *OEM widgets*, Flutter utilitza el seu propi moter de renderizat per dibuixar els widgets en pantalla.
 
@@ -14,3 +14,9 @@ Flutter utilitza quatre dimensions per avaluar i considerar les necessitats dels
 - *Object-Oriented*
 - Predictible i alt rendiment
 - *Fast allocation*
+
+# Arquitectura Flutter
+En la pàgina web de Flutter els desenvlupadors han publicat unes *slides* en les quals és pot veure l'aqruitectura de sistema de Flutter. 
+A continuació és mostra un dels esquemes que mostren la gran escalabilitat del framework.
+
+![Arch Flutter](/uploads/arch-flutter.png "Arch Flutter")
