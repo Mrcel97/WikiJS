@@ -1,7 +1,7 @@
-<!-- TITLE: Descripcio del projecte -->
+<!-- TITLE: Descripció del projecte -->
 <!-- SUBTITLE: Explicació general del projecte -->
 
-# Descripcio del projecte
+# Descripció del projecte
 <p>Visual Studio Code és un editor, lleuger però potent, de codi open-source desenvolupat per Microsoft. S'adapta als següents sistemes operatius:</p>
 <br/>
 <table style="text-align:center; margin:auto;">
