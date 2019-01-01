@@ -13,7 +13,6 @@
 
 </div>
 
-# Autors
 <div style="width: 50%; margin: auto">
 	
 	<div style="float: left; box-shadow: 5px 10px 18px #888888; border-radius: 10px; margin: 2em; height: 30em; width: 25em; padding-top: 1em">
