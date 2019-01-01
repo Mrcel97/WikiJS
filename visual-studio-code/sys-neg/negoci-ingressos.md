@@ -38,14 +38,14 @@ Visual Studio Code, al igual que Flutter amb Google, és una estensió del model
 <br>
 <br>
 
-- **Microsoft Partners**: Es una empresa que proporciona productos o servicios relacionados con Microsoft, o soporte para tales. Microsoft confirma que son oficiales y que funcionan de manera eficaz, y ayudan a los clientes con una variedad de proyectos de tecnología de la información (TI) y productos y servicios específicos. Si bien no está acreditado para brindar soporte al mismo nivel que un Microsoft Gold Certified Partner para servicios de soporte, muchos MCP ofrecen soporte como parte de sus servicios.
+- **Microsoft Partners**:  És una empresa que proporciona productes i/o serveis relacionats amb Microsoft, o suport per aquests. Microsoft comfirma que són oficials i que funcionen de manera eficient, i ajuden als clients amb una gran varietat de porjectes de les tecnolofies de la informació (TI) i productes i serveis específics. 
 <br>
-- **Activititats Principals**: Estan formades per el desenvolupament de software i les actitats de marketing i vendes. D'aquest apartat nèixen actualitzacions pels productes de Microssoft o inclús nous productes per entrar en el mercat.
+- **Activitats Principals**: Estan formades pel desenvolupament de software i les activats de marketing i vendes. D'aquest apartat neixen actualitzacions pels productes de Microsoft o inclús nous productes per entrar en el mercat.
 <br>
-- **Recursos Principals**: Conformat per una gran base de dades incrustada, usuaris amb comptes de Microsoft i IPs. Tots junts conformen una font d'ingressos estable per a la compañia bassada en la comunitat.
+- **Recursos Principals**: Conformat per una gran base de dades incrustada, usuaris amb comptes de Microsoft i IPs. Tots junts conformen una font d'ingressos estable per a la companyia basada en la comunitat.
 <br>
-- **Productes sota llicència**: Paquets formats pels productes que s'alliberen als usuaris sota llicències privatives. Dins d'aquest paquets el més destacable és Office tot i que noves integracions i productes adquirits per Microsoft també s'adapten o s'utilitzen per incrementar el valor d'aquests productes ja existents o crear-ne de nous.
+- **Productes sota llicència**: Paquets formats pels productes que s'alliberen als usuaris sota llicències privatives. Dins d'aquest paquet el més destacable és Office tot i que noves integracions i productes adquirits per Microsoft també s'adapten o s'utilitzen per incrementar el valor d'aquests productes ja existents o crear-ne de nous.
 <br>
-- **Relacions amb els clients**: Microsoft com a empresa també crea solucions tecnològiques per als seus clients. Aquests clients tansols formen part del T50 (Top de les 50 empreses més poderos del món).
+- **Relacions amb els clients**: Microsoft com a empresa també crea solucions tecnològiques per als seus clients. Aquests clients tan sols formen part del T50 (Top de les 50 empreses més poderoses del món).
 <br>
-- **Canals de comunicació**: Conformat per la seva web, canals de venda o suport, minoristes i OEM (Original Equipment Manufacturer).
+- **Canals de comunicació**: Conformat per la seva web, canals de venda o suport i OEM (Original Equipment Manufacturer).
