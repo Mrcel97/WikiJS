@@ -11,7 +11,8 @@ L'objectiu que impulsa aquesta idea de projecte hostatjat en format wiki radica 
 La finalitat és donar a conèixer una opció de codi lliure alternativa a editors privatius i impulsar el seu ús. Per assolir aquesta ambiciosa meta indagarem en el funcionament, els avantatges i la comunitat que hi ha darrere de Visual Studio Code.
 
 ## Motivacions
-Aquest projecte esta recolzar per un seguit de motivacions, cada una tant o més important que l'anterior. Entre totes elles aporten sentit i vida a la idea de la nostra wiki.
+
+Aquest projecte està fomentat per un seguit de motivacions, cada una tant o més important que l'anterior. Entre totes elles aporten sentit i vida a la idea de la nostra wiki.
 
 <br>
 
