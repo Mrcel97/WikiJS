@@ -14,13 +14,13 @@
 	</div>
 </a>
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/historia">
+<a href="https://wiki-js-epl.herokuapp.com/flutter/contextualitzacio/historia">
 	<h2 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Història</h2>
 	</div>
 </a>
 
-<a href="https://wiki-js-epl.herokuapp.com/visual-studio-code/contextualitzacio/estat-actual">
+<a href="https://wiki-js-epl.herokuapp.com/flutter/contextualitzacio/estat-actual">
 	<h2 style="pointer-events: auto;
 		 cursor: pointer; text-decoration:none;">Estat Actual</h2>
 	</div>
