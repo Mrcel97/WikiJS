@@ -11,7 +11,7 @@
 		<p style="font-size: 3em; text-align: center">Flutter</p>
 		</div>
 </div>
-gsghsgs
+
 # Autors
 
 <div style="width: 80%; margin: auto">
